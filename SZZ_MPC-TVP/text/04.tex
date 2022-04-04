@@ -6,7 +6,7 @@
 \textbf{Sledovač s pamětí – T/H (track and hold)}, sleduje (kopíruje) průběh signálu a ukládá si aktuální hodnotu až s příchodem řídicího impulzu.
 
 \subsection{Funkce}
-
+Vzorkovače plní důležitou funkci v rámci převodníku. Spojitý signál (spojitý v čase i hodnotě) na vstupu vzorkují a na výstupu poskytují spojitý signál, ale diskrétní v hodnotě. Tento signál je zpracováván pomocí kvantovacího obvodu, který příslušné diskrétní hodnotě (hladině) přidělí odpovídající binární hodnotu s maximální chybou ½ LSB.
 \subsection{Základní parametry}
 \textbf{Zesílení (gain)} je střední strmost statické převodní charakteristiky. Udává se možná
 chyba zesílení a rozsah seřizovacích možností.
@@ -100,6 +100,98 @@ chvění a s kmitočtem roste
 
 \subsection{Příklady realizací}
 Realizace vzorkovače je v drtivé většině případů řešena zapojením v technice SC. V současné době se však dostává do popředí zájmu i technika spínaných proudů (SI) a to zejména díky pracovnímu režimu, který je proudový, čehož je využíváno ke snižování napájecích napětí.
+
+\subsubsection{Neinvertující zapojení vzorkovačů s pamětí v technice SC}
+Při sepnutém spínači S je paměťový kapacitor C\textsubscript{p} připojen ke zdroji snímaného napětí. Po dobu sepnutí TS se kapacitor 
+C\textsubscript{p} nabíjí na napětí odpovídající skutečné hodnotě vstupního signálu. Současně se odpovídajícím způsobem mění výstupní napětí oddělovacího zesilovače, kterým je většinou OZ v neinvertujícím zapojení. Po rozpojení spínače S se na kapacitoru 
+C\textsubscript{p} a tedy i na výstupu
+zesilovače udržuje napětí sejmutého vzorku. Doba T\textsubscript{S} odběru vzorku je velmi krátká a je proto použit elektronický spínač. Protože však u těchto spínačů nejsou splněny podmínky pro ideální spínače, tj. R\textsubscript{ON} = 0, R\textsubscript{OFF} -> $\infty$, nabíjí se paměťový kapacitor exponenciálně s časovou konstantou:
+\begin{equation}
+\tau = R_{s}*C_{p}
+\end{equation}
+,kde
+\begin{equation}
+R_{s} = R_{ON}+ R_{i}
+\end{equation}
+R\textsubscript{ON} je odpor sepnutého spínače a odpor R\textsubscript{i} zdroje vstupního signálu.
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.6]{images/VzorSC.png}
+   \end{center}
+   \caption{Základní neinvertující zapojení vzorkovače}
+\end{figure}
+
+Dynamické vlastnosti lze zlepšit volbou vhodných rychlých součástek (velmi rychlé OZ, rychlý převodník napěťových úrovní pro vlastní spínač, realizace spínače diodovým můstkem se Schottkyho diodami, volbou malé kapacity paměťového kapacitoru, značným proudovým dimenzováním výstupu prvního OZ).
+
+Velké zesílení prvního OZ způsobuje, že se Cp nabíjí z většího napětí a to po dobu, dokud napětí na diferenčních vstupech prvního OZ nebudou stejná. Nevýhodou je přechod zmíněného OZ do saturace při rozpojení spínače
+
+Aby se dosáhlo zvětšení nabíjecí rychlosti při změnách vstupního napětí o celý rozsah, připojí se paralelně k paměťovému kapacitoru spínač, který ho těsně před vlastním vzorkováním vybije. Nevýhodou je trochu složitější řídicí logika:
+
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.6]{images/VzorSC2.png}
+   \end{center}
+   \caption{Zapojení pro zvýšení nabíjecí rychlosti}
+\end{figure}
+\pagebreak  
+Další úpravou, aby se zabránilo saturaci prvního OZ, je přidání zpětnovazebního odporu a spínač ve zpětnovazební smyčce bývá také velmi často nahrazen antiparalelním zapojením dvojice diod. 
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.6]{images/VzorSC3.png}
+   \end{center}
+   \caption{Zapojení s dvojicí diod a opatřením proti saturaci}
+\end{figure}
+  
+\subsubsection{Invertující zapojení vzorkovače v technice SC}
+V případě invertujícího zapojení vzorkovače bývá paměťový kapacitor zapojen ve zpětné vazbě OZ – tzv. Millerův integrátor. Potřebný nabíjecí proud dodá zesilovač (nikoliv tedy zdroj vstupního napětí), čímž jsou menší nároky na spínač, protože se pracuje do virtuální země OZ.
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.6]{images/Miller.png}
+   \end{center}
+   \caption{Základní zapojení Millerova integrátoru}
+\end{figure} 
+\newpage
+\begin{figure}[t]
+   \begin{center}
+     \includegraphics[scale=0.6]{images/VzorSC4.png}
+   \end{center}
+   \caption{Zlepšení vlastností základního invertujícího zapojení vzorkovače}
+\end{figure}
+Aby byla zajištěna záporná zpětná vazba v režimu vzorkování (spínač je sepnut), jsou
+vstupní svorky prvního OZ zaměněny.
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.6]{images/VzorSC5.png}
+   \end{center}
+   \caption{Řešení invertujícího zapojení vzorkovače s volbou časové konstanty}
+\end{figure}
+
+Při sepnutí spínače bude paměťový kapacitor nabíjen s časovou konstantou:
+\begin{equation}
+\tau = (R_{s}+R)*C_{p}
+\end{equation}
+,kde R\textsubscript{S} je vnitřní odpor spínače. Proto je nutné volit R co nejmenší.
+
+
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.6]{images/VzorRZP.png}
+   \end{center}
+   \caption{Zkrácení doby nabíjení pomocí ŘZP}
+\end{figure}
+Velikost k\textsubscript{i} je omezena tím, že maximální hodnota nabíjecího proudu nemůže být větší než maximální výstupní proud OZ. Paměťový kapacitor musí být vybrán tak, aby měl malý svodový proud a malou dielektrickou absorpci.
+
+\subsubsection{Vzorkovače v technice SI}
+Paměťová buňka je základním prvkem v obvodech se spínanými proudy. Pro její funkci je využita parazitní kapacita CGS mezi hradlem a emitorem. Pro popsání základní funkce paměťové buňky je vhodné považovat tranzistor za ideální, tzn., že jsou zanedbány veškeré parazitní prvky kromě zmíněného kapacitoru C\textsubscript{GS}.
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.8]{images/VzorSI.png}
+   \end{center}
+   \caption{Vzorkovací obvody v technice SI a) buňka první generace b) buňka druhé generace}
+\end{figure}
+
+
+
 
 
 
