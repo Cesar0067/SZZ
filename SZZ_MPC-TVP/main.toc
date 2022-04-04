@@ -1,0 +1,25 @@
+\babel@toc {czech}{}
+\contentsline {section}{\numberline {1}Převodníky AD a DA}{1}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Základní princip}{1}{subsection.2}%
+\contentsline {subsection}{\numberline {1.2}Blokové schéma}{2}{subsection.4}%
+\contentsline {subsection}{\numberline {1.3}Základní statické a dynamické parametry}{2}{subsection.6}%
+\contentsline {subsection}{\numberline {1.4}Úloha v řetězci zpracování dat}{3}{subsection.7}%
+\contentsline {section}{\numberline {2}Obvody pro předzpracování signálu}{4}{section.8}%
+\contentsline {subsection}{\numberline {2.1}Důvody použití}{4}{subsection.9}%
+\contentsline {subsection}{\numberline {2.2}Využití multiplexeru a demultiplexeru}{4}{subsection.10}%
+\contentsline {subsubsection}{\numberline {2.2.1}Multiplexery}{4}{subsubsection.11}%
+\contentsline {section}{\numberline {3}Filtrační obvody}{5}{section.12}%
+\contentsline {subsection}{\numberline {3.1}Funkce}{5}{subsection.13}%
+\contentsline {subsection}{\numberline {3.2}Příklady realizací}{6}{subsection.16}%
+\contentsline {subsubsection}{\numberline {3.2.1}Stejnosměrné přesné filtry}{8}{subsubsection.21}%
+\contentsline {subsection}{\numberline {3.3}Důvody použití v převodnících}{8}{subsection.23}%
+\contentsline {subsection}{\numberline {3.4}Aproximační charakteristiky}{8}{subsection.24}%
+\contentsline {subsection}{\numberline {3.5}Přesné filtry}{10}{subsection.26}%
+\contentsline {section}{\numberline {4}Vzorkovací obvody}{11}{section.27}%
+\contentsline {section}{\numberline {5}Referenční zdroje napětí a proudu}{12}{section.28}%
+\contentsline {section}{\numberline {6}Paralelní převodníky DA}{13}{section.29}%
+\contentsline {section}{\numberline {7}Sériové převodníky DA}{14}{section.30}%
+\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{15}{section.31}%
+\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{16}{section.32}%
+\contentsline {section}{\numberline {10}Převodníky sigma-delta}{17}{section.33}%
+\contentsline {section}{\numberline {11}Testování převodníků}{18}{section.34}%
