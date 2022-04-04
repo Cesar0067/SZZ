@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  4 APR 2022 14:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  4 APR 2022 14:51
 entering extended mode
-**./main.tex
-(main.tex
+**./MPC-TVP.tex
+(MPC-TVP.tex
 LaTeX2e <2020-10-01> patch level 4
 L3 programming layer <2021-05-07> (shared.tex
 (C:\MiKTeX\tex/latex/base\article.cls
@@ -1018,13 +1018,13 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 24
 .
  (C:\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
-)<<t1.cmap>> (main.aux (text/01.aux) (text/02.aux) (text/03.aux
+)<<t1.cmap>> (MPC-TVP.aux (text/01.aux) (text/02.aux) (text/03.aux
 
 LaTeX Warning: Label `fig:sig' multiply defined.
 
 ) (text/04.aux) (text/05.aux) (text/06.aux) (text/07.aux) (text/08.aux)
 (text/09.aux) (text/10.aux) (text/11.aux))
-\openout1 = `main.aux'.
+\openout1 = `MPC-TVP.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -1094,9 +1094,10 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
- (main.out) (main.out)
+ (MPC-TVP.out)
+(MPC-TVP.out)
 \@outlinefile=\write4
-\openout4 = `main.out'.
+\openout4 = `MPC-TVP.out'.
 
  (C:\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -1195,9 +1196,9 @@ LaTeX Font Info:    Trying to load font information for T1+lmss on input line 2
 8.
  (C:\MiKTeX\tex/latex/lm\t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
-) (main.toc)
+) (MPC-TVP.toc)
 \tf@toc=\write5
-\openout5 = `main.toc'.
+\openout5 = `MPC-TVP.toc'.
 
 
 [0]
@@ -1347,23 +1348,23 @@ Overfull \hbox (4.8755pt too wide) in paragraph at lines 120--121
 
 
 
-] (main.aux (text/01.aux) (text/02.aux)
+] (MPC-TVP.aux (text/01.aux) (text/02.aux)
 (text/03.aux) (text/04.aux) (text/05.aux) (text/06.aux) (text/07.aux)
 (text/08.aux) (text/09.aux) (text/10.aux) (text/11.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
+Package rerunfilecheck Info: File `MPC-TVP.out' has not changed.
 (rerunfilecheck)             Checksum: 7EB22049926C2A9438F23584A5F06B29;2096.
  ) 
 Here is how much of TeX's memory you used:
  31170 strings out of 481021
- 591448 string characters out of 2905436
- 917682 words of memory out of 3000000
+ 591514 string characters out of 2905436
+ 917700 words of memory out of 3000000
  47806 multiletter control sequences out of 15000+600000
  461494 words of font info for 64 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
- 89i,8n,92p,541b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 89i,8n,92p,544b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-
 rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvips/l
 m/lm-ec.enc}<C:/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/
@@ -1372,7 +1373,7 @@ s/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/MiKT
 eX/fonts/type1/public/lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb
 ><C:/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/l
 mtt12.pfb>
-Output written on main.pdf (20 pages, 483998 bytes).
+Output written on MPC-TVP.pdf (20 pages, 483998 bytes).
 PDF statistics:
  260 PDF objects out of 1000 (max. 8388607)
  55 named destinations out of 1000 (max. 500000)
