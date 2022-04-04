@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  4 APR 2022 14:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  4 APR 2022 16:02
 entering extended mode
 **./MPC-TVP.tex
 (MPC-TVP.tex
@@ -1293,89 +1293,114 @@ Overfull \hbox (4.8755pt too wide) in paragraph at lines 120--121
 [9 <./images/Aprox.png>]) [10]
 \openout2 = `text/04.aux'.
 
- (text/04.tex) [11
+ (text/04.tex
+<images/Droop.png, id=177, 280.79906pt x 254.45062pt>
+File: images/Droop.png Graphic file (type png)
+<use images/Droop.png>
+Package pdftex.def Info: images/Droop.png  used on input line 35.
+(pdftex.def)             Requested size: 168.48073pt x 152.67154pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11
 
 
 
 ]
+Underfull \vbox (badness 1342) has occurred while \output is active []
+
+ [12 <./images/Droop.png>]
+<images/Apertura.png, id=198, 353.82187pt x 389.95688pt>
+File: images/Apertura.png Graphic file (type png)
+<use images/Apertura.png>
+Package pdftex.def Info: images/Apertura.png  used on input line 94.
+(pdftex.def)             Requested size: 212.29475pt x 233.97592pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13 <./images/Apertura.png>]) [14]
 \openout2 = `text/05.aux'.
 
- (text/05.tex) [12
+ (text/05.tex) [15
 
 
 
 ]
 \openout2 = `text/06.aux'.
 
-
-(text/06.tex) [13
+ (text/06.tex) [16
 
 
 
 ]
 \openout2 = `text/07.aux'.
 
- (text/07.tex) [14
+ (text/07.tex)
+[17
 
 
 
 ]
 \openout2 = `text/08.aux'.
 
- (text/08.tex) [15
+ (text/08.tex) [18
 
 
 
 ]
 \openout2 = `text/09.aux'.
 
- (text/09.tex) [16
+ (text/09.tex) [19
 
 
 
 ]
 \openout2 = `text/10.aux'.
 
-
-(text/10.tex) [17
+ (text/10.tex) [20
 
 
 
 ]
 \openout2 = `text/11.aux'.
 
- (text/11.tex) [18
+ (text/11.tex)
+[21
 
 
 
-] (MPC-TVP.aux (text/01.aux) (text/02.aux)
-(text/03.aux) (text/04.aux) (text/05.aux) (text/06.aux) (text/07.aux)
-(text/08.aux) (text/09.aux) (text/10.aux) (text/11.aux))
+] (MPC-TVP.aux (text/01.aux) (text/02.aux) (text/03.aux) (text/04.aux)
+(text/05.aux) (text/06.aux) (text/07.aux) (text/08.aux) (text/09.aux)
+(text/10.aux) (text/11.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MPC-TVP.out' has not changed.
-(rerunfilecheck)             Checksum: 7EB22049926C2A9438F23584A5F06B29;2096.
+(rerunfilecheck)             Checksum: 945DF3B691659FB37851D1DE1AEFF9D9;2096.
  ) 
 Here is how much of TeX's memory you used:
- 31170 strings out of 481021
- 591514 string characters out of 2905436
- 917700 words of memory out of 3000000
- 47806 multiletter control sequences out of 15000+600000
- 461494 words of font info for 64 fonts, out of 8000000 for 9000
+ 31202 strings out of 481021
+ 592022 string characters out of 2905436
+ 917708 words of memory out of 3000000
+ 47819 multiletter control sequences out of 15000+600000
+ 464489 words of font info for 65 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
- 89i,8n,92p,544b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-
-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvips/l
-m/lm-ec.enc}<C:/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/
-public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/MiKTeX/font
-s/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/MiKT
-eX/fonts/type1/public/lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb
-><C:/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/l
-mtt12.pfb>
-Output written on MPC-TVP.pdf (20 pages, 483998 bytes).
+ 89i,8n,92p,774b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-math
+sy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm
+-mathit.enc}<C:/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/
+public/lm/lmbx8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi12.pfb><C:/MiKTeX/font
+s/type1/public/lm/lmmi8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/MiKT
+eX/fonts/type1/public/lm/lmr17.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C
+:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type1/public/lm/lm
+sy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on MPC-TVP.pdf (23 pages, 562311 bytes).
 PDF statistics:
- 260 PDF objects out of 1000 (max. 8388607)
- 55 named destinations out of 1000 (max. 500000)
- 165 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 294 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
+ 175 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -16,10 +16,15 @@
 \contentsline {subsection}{\numberline {3.4}Aproximační charakteristiky}{8}{subsection.24}%
 \contentsline {subsection}{\numberline {3.5}Přesné filtry}{10}{subsection.26}%
 \contentsline {section}{\numberline {4}Vzorkovací obvody}{11}{section.27}%
-\contentsline {section}{\numberline {5}Referenční zdroje napětí a proudu}{12}{section.28}%
-\contentsline {section}{\numberline {6}Paralelní převodníky DA}{13}{section.29}%
-\contentsline {section}{\numberline {7}Sériové převodníky DA}{14}{section.30}%
-\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{15}{section.31}%
-\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{16}{section.32}%
-\contentsline {section}{\numberline {10}Převodníky sigma-delta}{17}{section.33}%
-\contentsline {section}{\numberline {11}Testování převodníků}{18}{section.34}%
+\contentsline {subsection}{\numberline {4.1}S/H a T/H obvody}{11}{subsection.28}%
+\contentsline {subsection}{\numberline {4.2}Funkce}{11}{subsection.29}%
+\contentsline {subsection}{\numberline {4.3}Základní parametry}{11}{subsection.30}%
+\contentsline {subsubsection}{\numberline {4.3.1}Základní parametry související s přechodovými ději}{12}{subsubsection.32}%
+\contentsline {subsection}{\numberline {4.4}Příklady realizací}{14}{subsection.39}%
+\contentsline {section}{\numberline {5}Referenční zdroje napětí a proudu}{15}{section.40}%
+\contentsline {section}{\numberline {6}Paralelní převodníky DA}{16}{section.41}%
+\contentsline {section}{\numberline {7}Sériové převodníky DA}{17}{section.42}%
+\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{18}{section.43}%
+\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{19}{section.44}%
+\contentsline {section}{\numberline {10}Převodníky sigma-delta}{20}{section.45}%
+\contentsline {section}{\numberline {11}Testování převodníků}{21}{section.46}%
