@@ -5,7 +5,7 @@ Vhodné k SZZ a zkoušce
 
 # Použití
 
-Pro čtení stahujte sobour MPC-TVP.pdf
+Pro čtení stahujte sobour `MPC-TVP.pdf`
 
 # Úprava
 
