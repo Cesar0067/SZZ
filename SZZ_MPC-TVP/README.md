@@ -1,6 +1,6 @@
 # MPC-TVP.tex
 
-Vypracované otázky k přdmětu MPC-TVP 2021/22.
+Vypracované otázky k předmětu MPC-TVP 2021/22.
 Vhodné k SZZ a zkoušce
 
 # Použití
