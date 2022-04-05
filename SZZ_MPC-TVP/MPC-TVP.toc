@@ -19,15 +19,15 @@
 \contentsline {subsection}{\numberline {4.1}S/H a T/H obvody}{11}{subsection.28}%
 \contentsline {subsection}{\numberline {4.2}Funkce}{11}{subsection.29}%
 \contentsline {subsection}{\numberline {4.3}Základní parametry}{11}{subsection.30}%
-\contentsline {subsubsection}{\numberline {4.3.1}Základní parametry související s přechodovými ději}{13}{subsubsection.32}%
+\contentsline {subsubsection}{\numberline {4.3.1}Základní parametry související s přechodovými ději}{12}{subsubsection.32}%
 \contentsline {subsection}{\numberline {4.4}Příklady realizací}{14}{subsection.39}%
-\contentsline {subsubsection}{\numberline {4.4.1}Neinvertující zapojení vzorkovačů s pamětí v technice SC}{15}{subsubsection.40}%
+\contentsline {subsubsection}{\numberline {4.4.1}Neinvertující zapojení vzorkovačů s pamětí v technice SC}{14}{subsubsection.40}%
 \contentsline {subsubsection}{\numberline {4.4.2}Invertující zapojení vzorkovače v technice SC}{16}{subsubsection.46}%
 \contentsline {subsubsection}{\numberline {4.4.3}Vzorkovače v technice SI}{17}{subsubsection.52}%
-\contentsline {section}{\numberline {5}Referenční zdroje napětí a proudu}{19}{section.54}%
-\contentsline {section}{\numberline {6}Paralelní převodníky DA}{20}{section.55}%
-\contentsline {section}{\numberline {7}Sériové převodníky DA}{21}{section.56}%
-\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{22}{section.57}%
-\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{23}{section.58}%
-\contentsline {section}{\numberline {10}Převodníky sigma-delta}{24}{section.59}%
-\contentsline {section}{\numberline {11}Testování převodníků}{25}{section.60}%
+\contentsline {section}{\numberline {5}Referenční zdroje napětí a proudu}{21}{section.56}%
+\contentsline {section}{\numberline {6}Paralelní převodníky DA}{22}{section.57}%
+\contentsline {section}{\numberline {7}Sériové převodníky DA}{23}{section.58}%
+\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{24}{section.59}%
+\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{25}{section.60}%
+\contentsline {section}{\numberline {10}Převodníky sigma-delta}{26}{section.61}%
+\contentsline {section}{\numberline {11}Testování převodníků}{27}{section.62}%

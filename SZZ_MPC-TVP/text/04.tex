@@ -36,7 +36,6 @@ paměťového kapacitoru.
    \end{center}
    \caption{Skutečný průběh pamatování ve vzorkovači}
   \end{figure}
-\pagebreak
 
 \subsubsection{Základní parametry související s přechodovými ději}
 \textbf{Doba upnutí (acquisition time)} je doba potřebná k přechodu z paměťového do sledovacího provozu. Definuje se pro udaný skok výstupního napětí (nejhorší je skok přes celé rozmezí povoleného výstupního napětí) s následným ustálením v předepsaném tolerančním pásu při ss nebo pomalu se měnícím vstupním napětí
@@ -45,7 +44,7 @@ paměťového kapacitoru.
 \begin{equation}
 \tau = (R_{i}+R_{sep}*C_{p})
 \end{equation}
-
+\newpage
 Doba vzorkování nutná pro dosažení dané přesnosti
 \begin{itemize}
 \item pro přesnost 10\%: 
@@ -190,10 +189,31 @@ Paměťová buňka je základním prvkem v obvodech se spínanými proudy. Pro j
    \caption{Vzorkovací obvody v technice SI a) buňka první generace b) buňka druhé generace}
 \end{figure}
 
+\textbf{Buňka první generace} je zapojena jako klasický proudový opakovač s unipolárními tranzistory. Pokud je spínač sepnut, do kolektoru tranzistoru T\textsubscript{1} teče proud i\textsubscript{in}+I\textsubscript{B}, kde I\textsubscript{B} je příčný proud generovaný proudovým zdrojem tvořeným tranzistorem T\textsubscript{2}. Tento proud je nutný pro zpracování vstupního proudu obou polarit. Proud protékající tranzistorem T\textsubscript{1} je zrcadlen a jeho obraz teče kolektorem tranzistoru T\textsubscript{3}. Pokud je proud generovaný proudovým zdrojem tvořeným tranzistorem T\textsubscript{4} stejný jako proud generovaný proudovým zdrojem tvořeným tranzistorem T\textsubscript{2} a pokud je také stejný poměr W/L u tranzistorů T\textsubscript{1} a T\textsubscript{3}, pak hodnota výstupního proudu i\textsubscript{out} se rovná hodnotě vstupního proudu i\textsubscript{in}. Na hradle tranzistoru T\textsubscript{3} je napětí u\textsubscript{GS}, které zajišťuje daný výstupní proud buňky. 
+
+Po rozpojení spínače je toto napětí u\textsubscript{GS} na hradle tranzistoru T\textsubscript{3} zachováno a tranzistorem teče stejný proud jako před rozpojením spínače. Proto je i výstupní proud i\textsubscript{out} stejný. Hodnota i\textsubscript{out} je zachována do doby, než bude spínač opět sepnut (ovšem za předpokladu ideálních vlastností tranzistoru). Hlavní vlastností paměťové buňky první generace proto je, že výstupní svorkou teče neustále výstupní proud (výstup je připojen k obvodu s nízkou impedancí), který je dán přímo okamžitou hodnotou vstupního proudu(spínač je sepnut) nebo hodnotou vstupního proudu před rozpojením spínače (spínač je rozepnut).
+
+Hlavní výhodou buňky první generace je, že výstupní proud i\textsubscript{out} je možné po celou dobu odebírat z výstupu.
+
+Buňku první generace lze navrhnout s libovolným zesílením:
+\begin{equation}
+A = \frac{i_{vyst}}{i_{vst}}=\frac{(\frac{W}{L})_{M3}}{(\frac{W}{L})_{M1}}
+\end{equation}
+
+Problémem je však závislost tohoto zesílení na shodnosti (matching) tranzistorů T\textsubscript{1} a T\textsubscript{3} nebo na dosažení přesného poměru rozměrů tranzistorů. Dále je nutné, aby zdroje proudů tvořené tranzistory T\textsubscript{2} a T\textsubscript{4} byly shodné. Pokud nejsou, vnáší se do obvodu chyba posunutí (offset).
 
 
+\textbf{Buňka druhé generace} je tvořena pouze jedním „paměťovým“ tranzistorem T\textsubscript{1} a zdrojem proudu tvořeným tranzistorem T\textsubscript{2}. Funkce buňky je rozdělena do fází $\phi$\textsubscript{1} a $\phi$\textsubscript{2s}. Hodinové signály pro spínače se nesmí překrývat. Během hodinové fáze $\phi$\textsubscript{1} je buňka v režimu sledování (track), tzn., že do buňky teče vstupní proud i\textsubscript{in}.
 
+Tranzistor T\textsubscript{1} je zapojen v diodovém režimu (hradlo a kolektor jsou spojeny) a proud tranzistorem je i\textsubscript{in} +I\textsubscript{B}, kde I\textsubscript{B} je příčný proud generovaný proudovým zdrojem tvořeným tranzistorem T\textsubscript{2}. Výstupní spínač paměťové buňky je rozepnut, a tudíž výstupní proud je nulový. Během hodinové fáze $\phi$\textsubscript{2} je buňka v režimu pamatování (hold), tzn., že napětí u\textsubscript{GS} mezi hradlem a emitorem tranzistoru T\textsubscript{1} je udržováno konstantní díky parazitní kapacitě C\textsubscript{GS}. Hodnota napětí je stejná, jako byla v čase přechodu z fáze $\phi$ \textsubscript{1} do fáze $\phi$\textsubscript{2}.
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.8]{images/time_SI.png}
+   \end{center}
+   \caption{Časové průběhy a) hodinových signálů, b) vstupních a výstupních proudů paměťové buňky první (nahoře) i druhé (dole) generace}
+\end{figure}
 
+Nevýhodou buňky druhé generace je dostupnost výstupního proudu i\textsubscript{out} pouze ve fázi $\phi$\textsubscript{2}. Naopak buňka druhé generace může mít pouze jednotkové zesílení, tzn., že se vstupní proud zrcadlí na výstup. Paměťový tranzistor T\textsubscript{1} je použit jako vstupní i výstupní. Proto zde odpadá problém párování tranzistorů. Další výhodou je použití pouze jednoho zdroje proudu tvořeného tranzistorem T\textsubscript{2}, který dodává příčný proud paměťové buňce v obou fázích ($\phi$\textsubscript{1} i $\phi$\textsubscript{2}). Proto není přesnost přenosu zatížena chybou posunutí způsobenou nepřizpůsobením zdrojů proudů.
 
 
 
