@@ -25,9 +25,18 @@
 \contentsline {subsubsection}{\numberline {4.4.2}Invertující zapojení vzorkovače v technice SC}{16}{subsubsection.46}%
 \contentsline {subsubsection}{\numberline {4.4.3}Vzorkovače v technice SI}{17}{subsubsection.52}%
 \contentsline {section}{\numberline {5}Referenční zdroje napětí a proudu}{21}{section.56}%
-\contentsline {section}{\numberline {6}Paralelní převodníky DA}{22}{section.57}%
-\contentsline {section}{\numberline {7}Sériové převodníky DA}{23}{section.58}%
-\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{24}{section.59}%
-\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{25}{section.60}%
-\contentsline {section}{\numberline {10}Převodníky sigma-delta}{26}{section.61}%
-\contentsline {section}{\numberline {11}Testování převodníků}{27}{section.62}%
+\contentsline {subsection}{\numberline {5.1}Jednoduchá reference-napěťové}{21}{subsection.57}%
+\contentsline {subsection}{\numberline {5.2}Reference řízená prahovým napětím (bootstrapped)-napěťový}{23}{subsection.66}%
+\contentsline {subsection}{\numberline {5.3}Bandgap reference}{24}{subsection.68}%
+\contentsline {subsubsection}{\numberline {5.3.1}Bandgap reference podle Paula Brokawa}{25}{subsubsection.72}%
+\contentsline {subsection}{\numberline {5.4}Jednoduchá reference-proudové}{25}{subsection.75}%
+\contentsline {subsection}{\numberline {5.5}Reference řízená prahovým napětím-proudová}{26}{subsection.78}%
+\contentsline {subsection}{\numberline {5.6}Proudový bootstrapped}{27}{subsection.82}%
+\contentsline {subsection}{\numberline {5.7}Výhody a nevýhody}{27}{subsection.84}%
+\contentsline {subsection}{\numberline {5.8}Teplotní závislost}{27}{subsection.85}%
+\contentsline {section}{\numberline {6}Paralelní převodníky DA}{28}{section.87}%
+\contentsline {section}{\numberline {7}Sériové převodníky DA}{29}{section.88}%
+\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{30}{section.89}%
+\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{31}{section.90}%
+\contentsline {section}{\numberline {10}Převodníky sigma-delta}{32}{section.91}%
+\contentsline {section}{\numberline {11}Testování převodníků}{33}{section.92}%

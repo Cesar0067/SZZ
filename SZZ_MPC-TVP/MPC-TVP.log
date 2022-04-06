@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  5 APR 2022 10:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  6 APR 2022 19:54
 entering extended mode
 **./MPC-TVP.tex
 (MPC-TVP.tex
@@ -1400,51 +1400,138 @@ Overfull \hbox (50.64658pt too wide) in paragraph at lines 211--212
 [19 <./images/time_SI.png>]) [20]
 \openout2 = `text/05.aux'.
 
- (text/05.tex) [21
+ (text/05.tex
+<images/ref.png, id=272, 250.68657pt x 174.6525pt>
+File: images/ref.png Graphic file (type png)
+<use images/ref.png>
+Package pdftex.def Info: images/ref.png  used on input line 8.
+(pdftex.def)             Requested size: 150.41309pt x 104.7923pt.
+<images/ref2.png, id=273, 429.85594pt x 221.32687pt>
+File: images/ref2.png Graphic file (type png)
+<use images/ref2.png>
+Package pdftex.def Info: images/ref2.png  used on input line 24.
+(pdftex.def)             Requested size: 257.91554pt x 132.79713pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [21
 
 
 
-]
+ <./images/ref.png>]
+<images/ref3.png, id=284, 455.45157pt x 225.84375pt>
+File: images/ref3.png Graphic file (type png)
+<use images/ref3.png>
+Package pdftex.def Info: images/ref3.png  used on input line 41.
+(pdftex.def)             Requested size: 273.27304pt x 135.50728pt.
+<images/refzen.png, id=285, 137.01187pt x 161.10187pt>
+File: images/refzen.png Graphic file (type png)
+<use images/refzen.png>
+Package pdftex.def Info: images/refzen.png  used on input line 54.
+(pdftex.def)             Requested size: 82.20775pt x 96.66187pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<images/BT.png, id=286, 679.03688pt x 387.69844pt>
+File: images/BT.png Graphic file (type png)
+<use images/BT.png>
+Package pdftex.def Info: images/BT.png  used on input line 63.
+(pdftex.def)             Requested size: 407.42526pt x 232.62085pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [22 <./images/ref2.png> <./images/ref3.png>]
+Underfull \vbox (badness 1259) has occurred while \output is active []
+
+ [23 <./images/refzen.png> <./images/BT.png>]
+<images/BG.png, id=307, 423.83344pt x 264.23718pt>
+File: images/BG.png Graphic file (type png)
+<use images/BG.png>
+Package pdftex.def Info: images/BG.png  used on input line 78.
+(pdftex.def)             Requested size: 254.302pt x 158.54352pt.
+<images/BG2.png, id=308, 291.33844pt x 261.22594pt>
+File: images/BG2.png Graphic file (type png)
+<use images/BG2.png>
+Package pdftex.def Info: images/BG2.png  used on input line 86.
+(pdftex.def)             Requested size: 174.8044pt x 156.73676pt.
+<images/Brok.png, id=309, 494.59781pt x 207.02344pt>
+File: images/Brok.png Graphic file (type png)
+<use images/Brok.png>
+Package pdftex.def Info: images/Brok.png  used on input line 102.
+(pdftex.def)             Requested size: 395.67877pt x 165.61896pt.
+ [24 <./images/BG.png> <./images/BG2.png>]
+<images/REFI.png, id=320, 258.9675pt x 147.55125pt>
+File: images/REFI.png Graphic file (type png)
+<use images/REFI.png>
+Package pdftex.def Info: images/REFI.png  used on input line 116.
+(pdftex.def)             Requested size: 155.38168pt x 88.53142pt.
+
+[25 <./images/Brok.png> <./images/REFI.png>]
+<images/PrahI.png, id=333, 158.09062pt x 264.99pt>
+File: images/PrahI.png Graphic file (type png)
+<use images/PrahI.png>
+Package pdftex.def Info: images/PrahI.png  used on input line 132.
+(pdftex.def)             Requested size: 94.85509pt x 158.99522pt.
+<images/PRZ.png, id=334, 312.41719pt x 213.79875pt>
+File: images/PRZ.png Graphic file (type png)
+<use images/PRZ.png>
+Package pdftex.def Info: images/PRZ.png  used on input line 144.
+(pdftex.def)             Requested size: 187.45175pt x 128.28023pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [26 <./images/PrahI.png> <./images/PRZ.png>]
+<images/BTI.png, id=345, 140.02313pt x 258.21469pt>
+File: images/BTI.png Graphic file (type png)
+<use images/BTI.png>
+Package pdftex.def Info: images/BTI.png  used on input line 155.
+(pdftex.def)             Requested size: 84.01451pt x 154.93pt.
+) [27 <./images/BTI.png>]
 \openout2 = `text/06.aux'.
 
- (text/06.tex) [22
+ (text/06.tex)
+[28
 
 
 
 ]
 \openout2 = `text/07.aux'.
 
-
-(text/07.tex) [23
+ (text/07.tex) [29
 
 
 
 ]
 \openout2 = `text/08.aux'.
 
- (text/08.tex) [24
+ (text/08.tex) [30
 
 
 
 ]
 \openout2 = `text/09.aux'.
 
- (text/09.tex) [25
+ (text/09.tex) [31
 
 
 
 ]
 \openout2 = `text/10.aux'.
 
- (text/10.tex) [26
+ (text/10.tex)
+[32
 
 
 
 ]
 \openout2 = `text/11.aux'.
 
-
-(text/11.tex) [27
+ (text/11.tex) [33
 
 
 
@@ -1455,28 +1542,28 @@ Overfull \hbox (50.64658pt too wide) in paragraph at lines 211--212
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MPC-TVP.out' has not changed.
-(rerunfilecheck)             Checksum: 582ECCA7F41288550718260E1CDAF035;2096.
+(rerunfilecheck)             Checksum: 7346F2C09CA8A320AC2D8286E1040714;2096.
  ) 
 Here is how much of TeX's memory you used:
- 31325 strings out of 481021
- 594505 string characters out of 2905436
+ 31443 strings out of 481021
+ 596478 string characters out of 2905436
  918716 words of memory out of 3000000
- 47906 multiletter control sequences out of 15000+600000
+ 47978 multiletter control sequences out of 15000+600000
  464864 words of font info for 66 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
- 89i,8n,92p,1117b,812s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.e
-nc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ma
-thsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/MiKTeX/fonts/type1/pub
+ 89i,8n,92p,1117b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-
+rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm
+-ts1.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/MiKTeX/fonts/type1/pub
 lic/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/MiKTeX/fonts/t
-ype1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/MiKTeX
-/fonts/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:
-/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx1
-0.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public
-/lm/lmtt12.pfb>
-Output written on MPC-TVP.pdf (29 pages, 683318 bytes).
+ype1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/MiKTeX
+/fonts/type1/public/lm/lmmi8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:
+/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr8.p
+fb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type1/public/
+lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
+Output written on MPC-TVP.pdf (35 pages, 933920 bytes).
 PDF statistics:
- 363 PDF objects out of 1000 (max. 8388607)
- 92 named destinations out of 1000 (max. 500000)
- 220 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 453 PDF objects out of 1000 (max. 8388607)
+ 128 named destinations out of 1000 (max. 500000)
+ 280 words of extra memory for PDF output out of 10000 (max. 10000000)
 
