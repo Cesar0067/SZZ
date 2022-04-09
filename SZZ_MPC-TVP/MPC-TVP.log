@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  9 APR 2022 16:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  9 APR 2022 17:26
 entering extended mode
 **./MPC-TVP.tex
 (MPC-TVP.tex
@@ -1624,46 +1624,96 @@ Package pdftex.def Info: images/DAneprimy.png  used on input line 102.
  [38 <./images/DAvyrov.png>]) [39 <./images/DAneprimy.png>]
 \openout2 = `text/08.aux'.
 
- (text/08.tex) [40
+ (text/08.tex
+<images/ADroz.png, id=486, 473.51906pt x 297.36093pt>
+File: images/ADroz.png Graphic file (type png)
+<use images/ADroz.png>
+Package pdftex.def Info: images/ADroz.png  used on input line 5.
+(pdftex.def)             Requested size: 284.11362pt x 178.41792pt.
+<images/ADroztab.png, id=487, 651.18282pt x 435.12563pt>
+File: images/ADroztab.png Graphic file (type png)
+<use images/ADroztab.png>
+Package pdftex.def Info: images/ADroztab.png  used on input line 11.
+(pdftex.def)             Requested size: 390.7127pt x 261.07738pt.
+ [40
 
 
 
-]
+ <./images/ADroz.png> <./images/ADroztab.png>]
+<images/ADkomp.png, id=497, 322.95656pt x 439.6425pt>
+File: images/ADkomp.png Graphic file (type png)
+<use images/ADkomp.png>
+Package pdftex.def Info: images/ADkomp.png  used on input line 27.
+(pdftex.def)             Requested size: 193.77542pt x 263.78752pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [41 <./images/ADkomp.png>]
+<images/ADret.png, id=505, 643.6547pt x 459.96844pt>
+File: images/ADret.png Graphic file (type png)
+<use images/ADret.png>
+Package pdftex.def Info: images/ADret.png  used on input line 46.
+(pdftex.def)             Requested size: 386.1958pt x 275.98318pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [42]
+<images/MADC.png, id=511, 502.12593pt x 271.0125pt>
+File: images/MADC.png Graphic file (type png)
+<use images/MADC.png>
+Package pdftex.def Info: images/MADC.png  used on input line 59.
+(pdftex.def)             Requested size: 301.27788pt x 162.60875pt.
+<images/MADCprev.png, id=512, 243.91125pt x 208.52907pt>
+File: images/MADCprev.png Graphic file (type png)
+<use images/MADCprev.png>
+Package pdftex.def Info: images/MADCprev.png  used on input line 65.
+(pdftex.def)             Requested size: 146.34787pt x 125.1184pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [43 <./images/ADret.png> <./images/MADC.png>]) [44 <./images/MADCprev.png>]
 \openout2 = `text/09.aux'.
 
- (text/09.tex) [41
+ (text/09.tex) [45
 
 
 
 ]
 \openout2 = `text/10.aux'.
 
- (text/10.tex)
-[42
+ (text/10.tex) [46
 
 
 
 ]
 \openout2 = `text/11.aux'.
 
- (text/11.tex) [43
+ (text/11.tex) [47
 
 
 
-] (MPC-TVP.aux (text/01.aux) (text/02.aux) (text/03.aux)
-(text/04.aux) (text/05.aux) (text/06.aux) (text/07.aux) (text/08.aux)
-(text/09.aux) (text/10.aux) (text/11.aux))
+] (MPC-TVP.aux (text/01.aux)
+(text/02.aux) (text/03.aux) (text/04.aux) (text/05.aux) (text/06.aux)
+(text/07.aux) (text/08.aux) (text/09.aux) (text/10.aux) (text/11.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MPC-TVP.out' has not changed.
-(rerunfilecheck)             Checksum: FD86403D45D1DE56D4A9BF3278086783;2815.
+(rerunfilecheck)             Checksum: A4EB9A6B722C1CBF17CCAAD27DB6C197;2815.
  ) 
 Here is how much of TeX's memory you used:
- 31598 strings out of 481021
- 599249 string characters out of 2905436
+ 31652 strings out of 481021
+ 600271 string characters out of 2905436
  918722 words of memory out of 3000000
- 48073 multiletter control sequences out of 15000+600000
+ 48109 multiletter control sequences out of 15000+600000
  464864 words of font info for 66 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
  89i,8n,92p,1117b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1678,9 +1728,9 @@ C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr1
 lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type
 1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/MiKTeX/fo
 nts/type1/public/lm/lmtt12.pfb>
-Output written on MPC-TVP.pdf (45 pages, 1630720 bytes).
+Output written on MPC-TVP.pdf (49 pages, 1875314 bytes).
 PDF statistics:
- 592 PDF objects out of 1000 (max. 8388607)
- 174 named destinations out of 1000 (max. 500000)
- 379 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 632 PDF objects out of 1000 (max. 8388607)
+ 186 named destinations out of 1000 (max. 500000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 
