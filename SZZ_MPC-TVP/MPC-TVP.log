@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  9 APR 2022 17:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  9 APR 2022 17:35
 entering extended mode
 **./MPC-TVP.tex
 (MPC-TVP.tex
@@ -1706,31 +1706,40 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 LaTeX Warning: There were multiply-defined labels.
 
-Package rerunfilecheck Info: File `MPC-TVP.out' has not changed.
-(rerunfilecheck)             Checksum: A4EB9A6B722C1CBF17CCAAD27DB6C197;2815.
+
+Package rerunfilecheck Warning: File `MPC-TVP.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MPC-TVP.out':
+(rerunfilecheck)             Before: A4EB9A6B722C1CBF17CCAAD27DB6C197;2815
+(rerunfilecheck)             After:  FB7992748D56A3F6C5F8067650D7CE1A;2815.
  ) 
 Here is how much of TeX's memory you used:
- 31652 strings out of 481021
- 600271 string characters out of 2905436
+ 31654 strings out of 481021
+ 600296 string characters out of 2905436
  918722 words of memory out of 3000000
  48109 multiletter control sequences out of 15000+600000
  464864 words of font info for 66 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
  89i,8n,92p,1117b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-
-mathex.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvi
-ps/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX/fonts/enc/dv
-ips/lm/lm-ts1.enc}<C:/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/MiKTeX/fonts/
-type1/public/lm/lmbx8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/MiKTe
-X/fonts/type1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><
-C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr1
-2.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/MiKTeX/fonts/type1/public/
-lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type
-1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/MiKTeX/fo
-nts/type1/public/lm/lmtt12.pfb>
-Output written on MPC-TVP.pdf (49 pages, 1875314 bytes).
+pdfTeX warning (dest): name{section.135} has been referenced but does not exi
+st, replaced by a fixed one
+
+{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ma
+thex.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvips
+/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX/fonts/enc/dvip
+s/lm/lm-ts1.enc}<C:/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/MiKTeX/fonts/ty
+pe1/public/lm/lmbx8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/MiKTeX/
+fonts/type1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:
+/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr12.
+pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/MiKTeX/fonts/type1/public/lm
+/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type1/
+public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/MiKTeX/font
+s/type1/public/lm/lmtt12.pfb>
+Output written on MPC-TVP.pdf (49 pages, 1876709 bytes).
 PDF statistics:
- 632 PDF objects out of 1000 (max. 8388607)
- 186 named destinations out of 1000 (max. 500000)
+ 635 PDF objects out of 1000 (max. 8388607)
+ 188 named destinations out of 1000 (max. 500000)
  409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -53,5 +53,6 @@
 \contentsline {subsection}{\numberline {11.1}Komparační}{40}{subsection.128}%
 \contentsline {subsection}{\numberline {11.2}Řetězové}{42}{subsection.130}%
 \contentsline {section}{\numberline {12}Převodníky AD typu SAR a integrační}{45}{section.134}%
-\contentsline {section}{\numberline {13}Převodníky sigma-delta}{46}{section.135}%
-\contentsline {section}{\numberline {14}Testování převodníků}{47}{section.136}%
+\contentsline {subsection}{\numberline {12.1}SAR}{45}{subsection.135}%
+\contentsline {section}{\numberline {13}Převodníky sigma-delta}{46}{section.136}%
+\contentsline {section}{\numberline {14}Testování převodníků}{47}{section.137}%
