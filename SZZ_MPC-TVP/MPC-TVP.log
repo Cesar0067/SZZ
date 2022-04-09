@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  6 APR 2022 19:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  9 APR 2022 16:57
 entering extended mode
 **./MPC-TVP.tex
 (MPC-TVP.tex
@@ -1205,7 +1205,7 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 \openout2 = `text/01.aux'.
 
  (text/01.tex
-<images/ADCDAC.png, id=82, 586.44093pt x 376.40625pt>
+<images/ADCDAC.png, id=97, 586.44093pt x 376.40625pt>
 File: images/ADCDAC.png Graphic file (type png)
 <use images/ADCDAC.png>
 Package pdftex.def Info: images/ADCDAC.png  used on input line 8.
@@ -1213,7 +1213,7 @@ Package pdftex.def Info: images/ADCDAC.png  used on input line 8.
  [1
 
  <./images/ADCDAC.png>]
-<images/Blok.png, id=91, 568.37344pt x 298.86656pt>
+<images/Blok.png, id=106, 568.37344pt x 298.86656pt>
 File: images/Blok.png Graphic file (type png)
 <use images/Blok.png>
 Package pdftex.def Info: images/Blok.png  used on input line 25.
@@ -1230,7 +1230,7 @@ Package pdftex.def Info: images/Blok.png  used on input line 25.
 \openout2 = `text/03.aux'.
 
  (text/03.tex
-<images/Aliasing.png, id=117, 517.18219pt x 461.47406pt>
+<images/Aliasing.png, id=132, 517.18219pt x 461.47406pt>
 File: images/Aliasing.png Graphic file (type png)
 <use images/Aliasing.png>
 Package pdftex.def Info: images/Aliasing.png  used on input line 26.
@@ -1247,12 +1247,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
 ]
-<images/SC.png, id=131, 444.91219pt x 98.61844pt>
+<images/SC.png, id=146, 444.91219pt x 98.61844pt>
 File: images/SC.png Graphic file (type png)
 <use images/SC.png>
 Package pdftex.def Info: images/SC.png  used on input line 36.
 (pdftex.def)             Requested size: 266.94936pt x 59.17151pt.
-<images/Impulz.png, id=134, 368.1253pt x 201.75375pt>
+<images/Impulz.png, id=149, 368.1253pt x 201.75375pt>
 File: images/Impulz.png Graphic file (type png)
 <use images/Impulz.png>
 Package pdftex.def Info: images/Impulz.png  used on input line 53.
@@ -1261,7 +1261,7 @@ Package pdftex.def Info: images/Impulz.png  used on input line 53.
 Underfull \vbox (badness 1584) has occurred while \output is active []
 
  [6 <./images/Aliasing.png> <./images/SC.png>]
-<images/SC_sig.png, id=145, 232.61906pt x 226.59656pt>
+<images/SC_sig.png, id=160, 232.61906pt x 226.59656pt>
 File: images/SC_sig.png Graphic file (type png)
 <use images/SC_sig.png>
 Package pdftex.def Info: images/SC_sig.png  used on input line 87.
@@ -1274,13 +1274,13 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [7 <./images/Impulz.png>]
-<images/Nekas.png, id=153, 199.49532pt x 146.04562pt>
+<images/Nekas.png, id=168, 199.49532pt x 146.04562pt>
 File: images/Nekas.png Graphic file (type png)
 <use images/Nekas.png>
 Package pdftex.def Info: images/Nekas.png  used on input line 98.
 (pdftex.def)             Requested size: 159.59645pt x 116.83664pt.
  [8 <./images/SC_sig.png> <./images/Nekas.png>]
-<images/Aprox.png, id=165, 575.14874pt x 378.66469pt>
+<images/Aprox.png, id=180, 575.14874pt x 378.66469pt>
 File: images/Aprox.png Graphic file (type png)
 <use images/Aprox.png>
 Package pdftex.def Info: images/Aprox.png  used on input line 120.
@@ -1299,7 +1299,7 @@ LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 9
  (C:\MiKTeX\tex/latex/lm\ts1lmr.fd
 File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<images/Droop.png, id=177, 280.79906pt x 254.45062pt>
+<images/Droop.png, id=192, 280.79906pt x 254.45062pt>
 File: images/Droop.png Graphic file (type png)
 <use images/Droop.png>
 Package pdftex.def Info: images/Droop.png  used on input line 35.
@@ -1313,7 +1313,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 [12 <./images/Droop.png>]
-<images/Apertura.png, id=195, 353.82187pt x 389.95688pt>
+<images/Apertura.png, id=210, 353.82187pt x 389.95688pt>
 File: images/Apertura.png Graphic file (type png)
 <use images/Apertura.png>
 Package pdftex.def Info: images/Apertura.png  used on input line 93.
@@ -1326,7 +1326,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-<images/VzorSC.png, id=205, 308.65312pt x 107.65219pt>
+<images/VzorSC.png, id=220, 308.65312pt x 107.65219pt>
 File: images/VzorSC.png Graphic file (type png)
 <use images/VzorSC.png>
 Package pdftex.def Info: images/VzorSC.png  used on input line 118.
@@ -1339,7 +1339,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [14 <./images/Apertura.png>]
-<images/VzorSC2.png, id=216, 300.3722pt x 105.39375pt>
+<images/VzorSC2.png, id=231, 300.3722pt x 105.39375pt>
 File: images/VzorSC2.png Graphic file (type png)
 <use images/VzorSC2.png>
 Package pdftex.def Info: images/VzorSC2.png  used on input line 131.
@@ -1348,33 +1348,33 @@ Package pdftex.def Info: images/VzorSC2.png  used on input line 131.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15 <./images/VzorSC.png> <./images/VzorSC2.png>]
-<images/VzorSC3.png, id=225, 317.68687pt x 166.37157pt>
+<images/VzorSC3.png, id=240, 317.68687pt x 166.37157pt>
 File: images/VzorSC3.png Graphic file (type png)
 <use images/VzorSC3.png>
 Package pdftex.def Info: images/VzorSC3.png  used on input line 139.
 (pdftex.def)             Requested size: 190.61359pt x 99.82368pt.
-<images/Miller.png, id=226, 149.8097pt x 85.82062pt>
+<images/Miller.png, id=241, 149.8097pt x 85.82062pt>
 File: images/Miller.png Graphic file (type png)
 <use images/Miller.png>
 Package pdftex.def Info: images/Miller.png  used on input line 148.
 (pdftex.def)             Requested size: 89.88649pt x 51.49275pt.
  [16 <./images/VzorSC3.png> <./images/Miller.png>]
-<images/VzorSC4.png, id=236, 283.81032pt x 115.18031pt>
+<images/VzorSC4.png, id=251, 283.81032pt x 115.18031pt>
 File: images/VzorSC4.png Graphic file (type png)
 <use images/VzorSC4.png>
 Package pdftex.def Info: images/VzorSC4.png  used on input line 155.
 (pdftex.def)             Requested size: 170.28749pt x 69.1087pt.
-<images/VzorSC5.png, id=237, 276.28218pt x 133.24782pt>
+<images/VzorSC5.png, id=252, 276.28218pt x 133.24782pt>
 File: images/VzorSC5.png Graphic file (type png)
 <use images/VzorSC5.png>
 Package pdftex.def Info: images/VzorSC5.png  used on input line 163.
 (pdftex.def)             Requested size: 165.77057pt x 79.9493pt.
-<images/VzorRZP.png, id=238, 282.30469pt x 136.25906pt>
+<images/VzorRZP.png, id=253, 282.30469pt x 136.25906pt>
 File: images/VzorRZP.png Graphic file (type png)
 <use images/VzorRZP.png>
 Package pdftex.def Info: images/VzorRZP.png  used on input line 177.
 (pdftex.def)             Requested size: 169.38411pt x 81.75606pt.
-<images/VzorSI.png, id=239, 531.48563pt x 203.25937pt>
+<images/VzorSI.png, id=254, 531.48563pt x 203.25937pt>
 File: images/VzorSI.png Graphic file (type png)
 <use images/VzorSI.png>
 Package pdftex.def Info: images/VzorSI.png  used on input line 187.
@@ -1387,7 +1387,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [18 <./images/VzorSI.png>]
-<images/time_SI.png, id=261, 632.3625pt x 358.33875pt>
+<images/time_SI.png, id=276, 632.3625pt x 358.33875pt>
 File: images/time_SI.png Graphic file (type png)
 <use images/time_SI.png>
 Package pdftex.def Info: images/time_SI.png  used on input line 211.
@@ -1401,12 +1401,12 @@ Overfull \hbox (50.64658pt too wide) in paragraph at lines 211--212
 \openout2 = `text/05.aux'.
 
  (text/05.tex
-<images/ref.png, id=272, 250.68657pt x 174.6525pt>
+<images/ref.png, id=287, 250.68657pt x 174.6525pt>
 File: images/ref.png Graphic file (type png)
 <use images/ref.png>
 Package pdftex.def Info: images/ref.png  used on input line 8.
 (pdftex.def)             Requested size: 150.41309pt x 104.7923pt.
-<images/ref2.png, id=273, 429.85594pt x 221.32687pt>
+<images/ref2.png, id=288, 429.85594pt x 221.32687pt>
 File: images/ref2.png Graphic file (type png)
 <use images/ref2.png>
 Package pdftex.def Info: images/ref2.png  used on input line 24.
@@ -1423,12 +1423,12 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 
  <./images/ref.png>]
-<images/ref3.png, id=284, 455.45157pt x 225.84375pt>
+<images/ref3.png, id=299, 455.45157pt x 225.84375pt>
 File: images/ref3.png Graphic file (type png)
 <use images/ref3.png>
 Package pdftex.def Info: images/ref3.png  used on input line 41.
 (pdftex.def)             Requested size: 273.27304pt x 135.50728pt.
-<images/refzen.png, id=285, 137.01187pt x 161.10187pt>
+<images/refzen.png, id=300, 137.01187pt x 161.10187pt>
 File: images/refzen.png Graphic file (type png)
 <use images/refzen.png>
 Package pdftex.def Info: images/refzen.png  used on input line 54.
@@ -1437,7 +1437,7 @@ Package pdftex.def Info: images/refzen.png  used on input line 54.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<images/BT.png, id=286, 679.03688pt x 387.69844pt>
+<images/BT.png, id=301, 679.03688pt x 387.69844pt>
 File: images/BT.png Graphic file (type png)
 <use images/BT.png>
 Package pdftex.def Info: images/BT.png  used on input line 63.
@@ -1449,35 +1449,35 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 1259) has occurred while \output is active []
 
  [23 <./images/refzen.png> <./images/BT.png>]
-<images/BG.png, id=307, 423.83344pt x 264.23718pt>
+<images/BG.png, id=322, 423.83344pt x 264.23718pt>
 File: images/BG.png Graphic file (type png)
 <use images/BG.png>
 Package pdftex.def Info: images/BG.png  used on input line 78.
 (pdftex.def)             Requested size: 254.302pt x 158.54352pt.
-<images/BG2.png, id=308, 291.33844pt x 261.22594pt>
+<images/BG2.png, id=323, 291.33844pt x 261.22594pt>
 File: images/BG2.png Graphic file (type png)
 <use images/BG2.png>
 Package pdftex.def Info: images/BG2.png  used on input line 86.
 (pdftex.def)             Requested size: 174.8044pt x 156.73676pt.
-<images/Brok.png, id=309, 494.59781pt x 207.02344pt>
+<images/Brok.png, id=324, 494.59781pt x 207.02344pt>
 File: images/Brok.png Graphic file (type png)
 <use images/Brok.png>
 Package pdftex.def Info: images/Brok.png  used on input line 102.
 (pdftex.def)             Requested size: 395.67877pt x 165.61896pt.
  [24 <./images/BG.png> <./images/BG2.png>]
-<images/REFI.png, id=320, 258.9675pt x 147.55125pt>
+<images/REFI.png, id=335, 258.9675pt x 147.55125pt>
 File: images/REFI.png Graphic file (type png)
 <use images/REFI.png>
 Package pdftex.def Info: images/REFI.png  used on input line 116.
 (pdftex.def)             Requested size: 155.38168pt x 88.53142pt.
 
 [25 <./images/Brok.png> <./images/REFI.png>]
-<images/PrahI.png, id=333, 158.09062pt x 264.99pt>
+<images/PrahI.png, id=348, 158.09062pt x 264.99pt>
 File: images/PrahI.png Graphic file (type png)
 <use images/PrahI.png>
 Package pdftex.def Info: images/PrahI.png  used on input line 132.
 (pdftex.def)             Requested size: 94.85509pt x 158.99522pt.
-<images/PRZ.png, id=334, 312.41719pt x 213.79875pt>
+<images/PRZ.png, id=349, 312.41719pt x 213.79875pt>
 File: images/PRZ.png Graphic file (type png)
 <use images/PRZ.png>
 Package pdftex.def Info: images/PRZ.png  used on input line 144.
@@ -1486,7 +1486,7 @@ Package pdftex.def Info: images/PRZ.png  used on input line 144.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [26 <./images/PrahI.png> <./images/PRZ.png>]
-<images/BTI.png, id=345, 140.02313pt x 258.21469pt>
+<images/BTI.png, id=360, 140.02313pt x 258.21469pt>
 File: images/BTI.png Graphic file (type png)
 <use images/BTI.png>
 Package pdftex.def Info: images/BTI.png  used on input line 155.
@@ -1494,29 +1494,144 @@ Package pdftex.def Info: images/BTI.png  used on input line 155.
 ) [27 <./images/BTI.png>]
 \openout2 = `text/06.aux'.
 
- (text/06.tex)
-[28
+ (text/06.tex
+<images/CHzes.png, id=371, 274.02374pt x 196.48407pt>
+File: images/CHzes.png Graphic file (type png)
+<use images/CHzes.png>
+Package pdftex.def Info: images/CHzes.png  used on input line 45.
+(pdftex.def)             Requested size: 164.41551pt x 117.89134pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [28
 
 
 
 ]
+<images/offset.png, id=379, 258.21469pt x 182.93344pt>
+File: images/offset.png Graphic file (type png)
+<use images/offset.png>
+Package pdftex.def Info: images/offset.png  used on input line 54.
+(pdftex.def)             Requested size: 154.93pt x 109.7609pt.
+<images/CHlin.png, id=380, 512.66531pt x 185.19188pt>
+File: images/CHlin.png Graphic file (type png)
+<use images/CHlin.png>
+Package pdftex.def Info: images/CHlin.png  used on input line 64.
+(pdftex.def)             Requested size: 307.60155pt x 111.11597pt.
+
+Underfull \vbox (badness 1931) has occurred while \output is active []
+
+ [29 <./images/CHzes.png> <./images/offset.png> <./images/CHlin.png>]
+<images/Dyn.png, id=392, 842.14626pt x 641.39626pt>
+File: images/Dyn.png Graphic file (type png)
+<use images/Dyn.png>
+Package pdftex.def Info: images/Dyn.png  used on input line 107.
+(pdftex.def)             Requested size: 421.0721pt x 320.69734pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [30]
+<images/Glitch.png, id=402, 161.85469pt x 142.28156pt>
+File: images/Glitch.png Graphic file (type png)
+<use images/Glitch.png>
+Package pdftex.def Info: images/Glitch.png  used on input line 122.
+(pdftex.def)             Requested size: 97.11354pt x 85.36958pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 4832) has occurred while \output is active []
+
+ [31 <./images/Dyn.png>]
+<images/DAzaklad.png, id=409, 280.79906pt x 268.00125pt>
+File: images/DAzaklad.png Graphic file (type png)
+<use images/DAzaklad.png>
+Package pdftex.def Info: images/DAzaklad.png  used on input line 137.
+(pdftex.def)             Requested size: 168.48073pt x 160.80197pt.
+<images/DAU.png, id=410, 380.17032pt x 275.52937pt>
+File: images/DAU.png Graphic file (type png)
+<use images/DAU.png>
+Package pdftex.def Info: images/DAU.png  used on input line 146.
+(pdftex.def)             Requested size: 228.10394pt x 165.3189pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [32 <./images/Glitch.png> <./images/DAzaklad.png>] [33 <./images/DAU.png>]
 \openout2 = `text/07.aux'.
 
- (text/07.tex) [29
+
+(text/07.tex
+<images/DAser.png, id=429, 547.2947pt x 261.22594pt>
+File: images/DAser.png Graphic file (type png)
+<use images/DAser.png>
+Package pdftex.def Info: images/DAser.png  used on input line 8.
+(pdftex.def)             Requested size: 328.37935pt x 156.73676pt.
+ [34
 
 
 
-]
+ <./images/DAser.png>]
+<images/DACC.png, id=437, 518.6878pt x 268.75406pt>
+File: images/DACC.png Graphic file (type png)
+<use images/DACC.png>
+Package pdftex.def Info: images/DACC.png  used on input line 31.
+(pdftex.def)             Requested size: 311.21509pt x 161.25368pt.
+<images/DAgraf.png, id=438, 504.38437pt x 368.87813pt>
+File: images/DAgraf.png Graphic file (type png)
+<use images/DAgraf.png>
+Package pdftex.def Info: images/DAgraf.png  used on input line 38.
+(pdftex.def)             Requested size: 302.63295pt x 221.32857pt.
+ [35 <./images/DACC.png> <./images/DAgraf.png>]
+<images/DA2.png, id=450, 691.83469pt x 221.32687pt>
+File: images/DA2.png Graphic file (type png)
+<use images/DA2.png>
+Package pdftex.def Info: images/DA2.png  used on input line 47.
+(pdftex.def)             Requested size: 415.104pt x 132.79713pt.
+<images/DAgraf2.png, id=451, 457.71pt x 371.88937pt>
+File: images/DAgraf2.png Graphic file (type png)
+<use images/DAgraf2.png>
+Package pdftex.def Info: images/DAgraf2.png  used on input line 60.
+(pdftex.def)             Requested size: 274.62813pt x 223.13533pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [36 <./images/DA2.png>]
+<images/DAser2.png, id=460, 471.26062pt x 339.51843pt>
+File: images/DAser2.png Graphic file (type png)
+<use images/DAser2.png>
+Package pdftex.def Info: images/DAser2.png  used on input line 70.
+(pdftex.def)             Requested size: 282.75856pt x 203.71262pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37 <./images/DAgraf2.png> <./images/DAser2.png>]
+<images/DAvyrov.png, id=470, 464.4853pt x 288.3272pt>
+File: images/DAvyrov.png Graphic file (type png)
+<use images/DAvyrov.png>
+Package pdftex.def Info: images/DAvyrov.png  used on input line 81.
+(pdftex.def)             Requested size: 278.69333pt x 172.99763pt.
+<images/DAneprimy.png, id=471, 507.39563pt x 193.47281pt>
+File: images/DAneprimy.png Graphic file (type png)
+<use images/DAneprimy.png>
+Package pdftex.def Info: images/DAneprimy.png  used on input line 102.
+(pdftex.def)             Requested size: 304.43973pt x 116.08458pt.
+ [38 <./images/DAvyrov.png>]) [39 <./images/DAneprimy.png>]
 \openout2 = `text/08.aux'.
 
- (text/08.tex) [30
+ (text/08.tex) [40
 
 
 
 ]
 \openout2 = `text/09.aux'.
 
- (text/09.tex) [31
+ (text/09.tex) [41
 
 
 
@@ -1524,14 +1639,14 @@ Package pdftex.def Info: images/BTI.png  used on input line 155.
 \openout2 = `text/10.aux'.
 
  (text/10.tex)
-[32
+[42
 
 
 
 ]
 \openout2 = `text/11.aux'.
 
- (text/11.tex) [33
+ (text/11.tex) [43
 
 
 
@@ -1542,28 +1657,30 @@ Package pdftex.def Info: images/BTI.png  used on input line 155.
 LaTeX Warning: There were multiply-defined labels.
 
 Package rerunfilecheck Info: File `MPC-TVP.out' has not changed.
-(rerunfilecheck)             Checksum: 7346F2C09CA8A320AC2D8286E1040714;2096.
+(rerunfilecheck)             Checksum: FD86403D45D1DE56D4A9BF3278086783;2815.
  ) 
 Here is how much of TeX's memory you used:
- 31443 strings out of 481021
- 596478 string characters out of 2905436
- 918716 words of memory out of 3000000
- 47978 multiletter control sequences out of 15000+600000
+ 31598 strings out of 481021
+ 599249 string characters out of 2905436
+ 918722 words of memory out of 3000000
+ 48073 multiletter control sequences out of 15000+600000
  464864 words of font info for 66 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
  89i,8n,92p,1117b,826s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-
-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm
--ts1.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}<C:/MiKTeX/fonts/type1/pub
-lic/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmbx8.pfb><C:/MiKTeX/fonts/t
-ype1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><C:/MiKTeX
-/fonts/type1/public/lm/lmmi8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:
-/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr8.p
-fb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type1/public/
-lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmtt12.pfb>
-Output written on MPC-TVP.pdf (35 pages, 933920 bytes).
+{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-
+mathex.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvi
+ps/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX/fonts/enc/dv
+ips/lm/lm-ts1.enc}<C:/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/MiKTeX/fonts/
+type1/public/lm/lmbx8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/MiKTe
+X/fonts/type1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi6.pfb><
+C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr1
+2.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/MiKTeX/fonts/type1/public/
+lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type
+1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/MiKTeX/fo
+nts/type1/public/lm/lmtt12.pfb>
+Output written on MPC-TVP.pdf (45 pages, 1630720 bytes).
 PDF statistics:
- 453 PDF objects out of 1000 (max. 8388607)
- 128 named destinations out of 1000 (max. 500000)
- 280 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 592 PDF objects out of 1000 (max. 8388607)
+ 174 named destinations out of 1000 (max. 500000)
+ 379 words of extra memory for PDF output out of 10000 (max. 10000000)
 
