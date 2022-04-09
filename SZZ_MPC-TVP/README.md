@@ -18,7 +18,7 @@ Neupravujte soubor shared.tex, jedná se o kompletní nastavení stylu dokumentu
 
 ### Co upravovat:
 
-Veškeré úpravy provádějte v `main.tex` a soubory ve složce `text` s příponou `.tex`
+Veškeré úpravy provádějte v `main.tex` a soubory ve složce `text` s příponou `.tex`. Obrázky vkládejte do `images`.
 
 ## Zdroje
 
