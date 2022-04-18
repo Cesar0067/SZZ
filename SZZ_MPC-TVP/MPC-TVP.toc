@@ -40,23 +40,29 @@
 \contentsline {subsubsection}{\numberline {6.1.2}Statické parametry}{28}{subsubsection.90}%
 \contentsline {subsubsection}{\numberline {6.1.3}Dynamické parametry}{30}{subsubsection.94}%
 \contentsline {subsection}{\numberline {6.2}Základní zapojení a funkce}{32}{subsection.100}%
-\contentsline {section}{\numberline {7}Využití sítě R-2R a modifikace}{33}{section.105}%
-\contentsline {section}{\numberline {8}Sériové převodníky DA}{34}{section.106}%
-\contentsline {section}{\numberline {9}Základní zapojení a funkce}{34}{section.107}%
-\contentsline {section}{\numberline {10}Využití kapacitorů v síti, příklady využití}{34}{section.109}%
-\contentsline {subsection}{\numberline {10.1}Sériový DAC s vybíjením kapacitoru}{34}{subsection.110}%
-\contentsline {subsection}{\numberline {10.2}Sériový převodník s analogovými vzorkovači}{36}{subsection.115}%
-\contentsline {subsection}{\numberline {10.3}Sériový cyklický DAC s kapacitory}{37}{subsection.119}%
-\contentsline {subsection}{\numberline {10.4}Sériový DAC s vyrovnáním náboje}{38}{subsection.121}%
-\contentsline {subsection}{\numberline {10.5}Nepřímé ADC}{38}{subsection.123}%
-\contentsline {section}{\numberline {11}Převodníky AD s vysokými vzorkovacími kmitočty}{40}{section.125}%
-\contentsline {subsection}{\numberline {11.1}Komparační}{40}{subsection.128}%
-\contentsline {subsection}{\numberline {11.2}Řetězové}{42}{subsection.130}%
-\contentsline {section}{\numberline {12}Převodníky AD typu SAR a integrační}{45}{section.134}%
-\contentsline {subsection}{\numberline {12.1}SAR}{45}{subsection.135}%
-\contentsline {subsubsection}{\numberline {12.1.1}ADC s postupnou aproximací a vyrovnáváním náboje}{46}{subsubsection.138}%
-\contentsline {subsection}{\numberline {12.2}Integrační převodníky AD}{48}{subsection.143}%
-\contentsline {subsubsection}{\numberline {12.2.1}Integrační převodník AD s mezipřevodem na kmitočet}{48}{subsubsection.144}%
-\contentsline {subsubsection}{\numberline {12.2.2}Integrační převodník ADC s mezipřevodem na časový interval}{49}{subsubsection.149}%
-\contentsline {section}{\numberline {13}Převodníky sigma-delta}{51}{section.153}%
-\contentsline {section}{\numberline {14}Testování převodníků}{52}{section.154}%
+\contentsline {subsection}{\numberline {6.3}Využití sítě R-2R a modifikace}{33}{subsection.105}%
+\contentsline {section}{\numberline {7}Sériové převodníky DA}{34}{section.106}%
+\contentsline {subsection}{\numberline {7.1}Základní zapojení a funkce}{34}{subsection.107}%
+\contentsline {subsection}{\numberline {7.2}Využití kapacitorů v síti, příklady využití}{34}{subsection.109}%
+\contentsline {subsubsection}{\numberline {7.2.1}Sériový DAC s vybíjením kapacitoru}{34}{subsubsection.110}%
+\contentsline {subsubsection}{\numberline {7.2.2}Sériový převodník s analogovými vzorkovači}{36}{subsubsection.115}%
+\contentsline {subsection}{\numberline {7.3}Sériový cyklický DAC s kapacitory}{37}{subsection.119}%
+\contentsline {subsection}{\numberline {7.4}Sériový DAC s vyrovnáním náboje}{38}{subsection.121}%
+\contentsline {subsection}{\numberline {7.5}Nepřímé ADC}{38}{subsection.123}%
+\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{40}{section.125}%
+\contentsline {subsection}{\numberline {8.1}Komparační}{40}{subsection.128}%
+\contentsline {subsection}{\numberline {8.2}Řetězové}{42}{subsection.130}%
+\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{45}{section.134}%
+\contentsline {subsection}{\numberline {9.1}SAR}{45}{subsection.135}%
+\contentsline {subsubsection}{\numberline {9.1.1}ADC s postupnou aproximací a vyrovnáváním náboje}{46}{subsubsection.138}%
+\contentsline {subsection}{\numberline {9.2}Integrační převodníky AD}{48}{subsection.143}%
+\contentsline {subsubsection}{\numberline {9.2.1}Integrační převodník AD s mezipřevodem na kmitočet}{48}{subsubsection.144}%
+\contentsline {subsubsection}{\numberline {9.2.2}Integrační převodník ADC s mezipřevodem na časový interval}{49}{subsubsection.149}%
+\contentsline {section}{\numberline {10}Převodníky sigma-delta}{51}{section.153}%
+\contentsline {subsection}{\numberline {10.1}Modulátory sigma-delta prvního řádu}{53}{subsection.158}%
+\contentsline {subsection}{\numberline {10.2}Modulátory sigma-delta vyššího řádu}{53}{subsection.160}%
+\contentsline {subsection}{\numberline {10.3}Modulátory sigma-delta typu MASH}{54}{subsection.162}%
+\contentsline {subsection}{\numberline {10.4}Sigma-delta převodník AD s filtrem typu pásmová propust}{54}{subsection.163}%
+\contentsline {subsection}{\numberline {10.5}Převodníky DAC typu sigma-delta}{55}{subsection.165}%
+\contentsline {subsection}{\numberline {10.6}Decimační filtr}{56}{subsection.167}%
+\contentsline {section}{\numberline {11}Testování převodníků}{58}{section.171}%

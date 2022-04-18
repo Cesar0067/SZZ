@@ -1,7 +1,7 @@
 \section{Sériové převodníky DA}
 - základní zapojení a funkce, využití kapacitorů v síti, příklady využití
 
-\section{Základní zapojení a funkce}
+\subsection{Základní zapojení a funkce}
 Sériové převodníky DA zaujímají zvláštní pozici mezi převodníky, v integrované podobě se prakticky nevyrábějí. Ve srovnání s paralelním převodníkem obsahuje pouze tři přesné analogové obvody, analogovou sčítačku, analogovou děličku a analogovou paměť.
 \begin{figure}[h]
    \begin{center}
@@ -13,8 +13,8 @@ Sériové převodníky DA zaujímají zvláštní pozici mezi převodníky, v in
 Pracují na principu postupného řízeného kvantování referenčního napětí číslicovým
 signálem a sčítání váhových kvant jednotlivých bitů číslicového signálu. Sériový číslicový signál D\textsubscript{S} řídí horní spínač, který při D\textsubscript{S} = 1 připojuje kladné referenční napětí U\textsubscript{ref} do analogové sčítačky. Ve sčítačce se toto napětí sčítá s napětím u\textsubscript{k-1}, jež je udržováno na výstupu analogové paměti jako výsledek předchozího taktu převodu T\textsubscript{k-1}. Součet napětí se dělí dvěma a uloží opět do analogové paměti. Vstupní n-bitové číslo se tedy převede na analogový signál postupně, a to celkem v n taktech. Převod začíná od bitu s nejnižší vahou.
 
-\section{Využití kapacitorů v síti, příklady využití}
-\subsection{Sériový DAC s vybíjením kapacitoru}
+\subsection{Využití kapacitorů v síti, příklady využití}
+\subsubsection{Sériový DAC s vybíjením kapacitoru}
 Využívá exponenciální závislosti mezi impulzy v sériově vyjádřeném dvojkovém slově a exponenciálním tvarem vybíjecí křivky kapacitoru. Podle zjednodušeného schématu je kapacitor během první poloviny periody T/2 nabíjen ze zdroje konstantního proudu IC, pokud je však hodnota převáděného bitu rovna 1.
 
 Protože kapacita C i proud IC jsou konstantní, bude také konstantní náboj dodaný do kapacitoru:
@@ -40,7 +40,7 @@ U_{ref}=\frac{I_{C}}{C}*\frac{T}{2}
    \caption{Příklad převodu dvojkového čísla 00101011}
 \end{figure}
 \newpage
-\subsection{Sériový převodník s analogovými vzorkovači}
+\subsubsection{Sériový převodník s analogovými vzorkovači}
 Sériový převodník s analogovými vzorkovači využívá rovněž metodu dělení napětí dvěma v jednotlivých taktech. 
 \begin{figure}[h]
    \begin{center}
