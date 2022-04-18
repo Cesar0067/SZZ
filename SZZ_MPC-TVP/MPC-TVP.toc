@@ -6,63 +6,65 @@
 \contentsline {subsection}{\numberline {1.4}Úloha v řetězci zpracování dat}{3}{subsection.7}%
 \contentsline {section}{\numberline {2}Obvody pro předzpracování signálu}{4}{section.8}%
 \contentsline {subsection}{\numberline {2.1}Důvody použití}{4}{subsection.9}%
-\contentsline {subsection}{\numberline {2.2}Využití multiplexeru a demultiplexeru}{4}{subsection.10}%
-\contentsline {subsubsection}{\numberline {2.2.1}Multiplexery}{4}{subsubsection.11}%
-\contentsline {section}{\numberline {3}Filtrační obvody}{5}{section.12}%
-\contentsline {subsection}{\numberline {3.1}Funkce}{5}{subsection.13}%
-\contentsline {subsection}{\numberline {3.2}Příklady realizací}{6}{subsection.16}%
-\contentsline {subsubsection}{\numberline {3.2.1}Stejnosměrné přesné filtry}{8}{subsubsection.21}%
-\contentsline {subsection}{\numberline {3.3}Důvody použití v převodnících}{8}{subsection.23}%
-\contentsline {subsection}{\numberline {3.4}Aproximační charakteristiky}{8}{subsection.24}%
-\contentsline {subsection}{\numberline {3.5}Přesné filtry}{10}{subsection.26}%
-\contentsline {section}{\numberline {4}Vzorkovací obvody}{11}{section.27}%
-\contentsline {subsection}{\numberline {4.1}S/H a T/H obvody}{11}{subsection.28}%
-\contentsline {subsection}{\numberline {4.2}Funkce}{11}{subsection.29}%
-\contentsline {subsection}{\numberline {4.3}Základní parametry}{11}{subsection.30}%
-\contentsline {subsubsection}{\numberline {4.3.1}Základní parametry související s přechodovými ději}{12}{subsubsection.32}%
-\contentsline {subsection}{\numberline {4.4}Příklady realizací}{14}{subsection.39}%
-\contentsline {subsubsection}{\numberline {4.4.1}Neinvertující zapojení vzorkovačů s pamětí v technice SC}{14}{subsubsection.40}%
-\contentsline {subsubsection}{\numberline {4.4.2}Invertující zapojení vzorkovače v technice SC}{16}{subsubsection.46}%
-\contentsline {subsubsection}{\numberline {4.4.3}Vzorkovače v technice SI}{17}{subsubsection.52}%
-\contentsline {section}{\numberline {5}Referenční zdroje napětí a proudu}{21}{section.56}%
-\contentsline {subsection}{\numberline {5.1}Jednoduchá reference-napěťové}{21}{subsection.57}%
-\contentsline {subsection}{\numberline {5.2}Reference řízená prahovým napětím (bootstrapped)-napěťový}{23}{subsection.66}%
-\contentsline {subsection}{\numberline {5.3}Bandgap reference}{24}{subsection.68}%
-\contentsline {subsubsection}{\numberline {5.3.1}Bandgap reference podle Paula Brokawa}{25}{subsubsection.72}%
-\contentsline {subsection}{\numberline {5.4}Jednoduchá reference-proudové}{25}{subsection.75}%
-\contentsline {subsection}{\numberline {5.5}Reference řízená prahovým napětím-proudová}{26}{subsection.78}%
-\contentsline {subsection}{\numberline {5.6}Proudový bootstrapped}{27}{subsection.82}%
-\contentsline {subsection}{\numberline {5.7}Výhody a nevýhody}{27}{subsection.84}%
-\contentsline {subsection}{\numberline {5.8}Teplotní závislost}{27}{subsection.85}%
-\contentsline {section}{\numberline {6}Paralelní převodníky DA}{28}{section.87}%
-\contentsline {subsection}{\numberline {6.1}DAC obecně}{28}{subsection.88}%
-\contentsline {subsubsection}{\numberline {6.1.1}Klasifikace}{28}{subsubsection.89}%
-\contentsline {subsubsection}{\numberline {6.1.2}Statické parametry}{28}{subsubsection.90}%
-\contentsline {subsubsection}{\numberline {6.1.3}Dynamické parametry}{30}{subsubsection.94}%
-\contentsline {subsection}{\numberline {6.2}Základní zapojení a funkce}{32}{subsection.100}%
-\contentsline {subsection}{\numberline {6.3}Využití sítě R-2R a modifikace}{33}{subsection.105}%
-\contentsline {section}{\numberline {7}Sériové převodníky DA}{34}{section.106}%
-\contentsline {subsection}{\numberline {7.1}Základní zapojení a funkce}{34}{subsection.107}%
-\contentsline {subsection}{\numberline {7.2}Využití kapacitorů v síti, příklady využití}{34}{subsection.109}%
-\contentsline {subsubsection}{\numberline {7.2.1}Sériový DAC s vybíjením kapacitoru}{34}{subsubsection.110}%
-\contentsline {subsubsection}{\numberline {7.2.2}Sériový převodník s analogovými vzorkovači}{36}{subsubsection.115}%
-\contentsline {subsection}{\numberline {7.3}Sériový cyklický DAC s kapacitory}{37}{subsection.119}%
-\contentsline {subsection}{\numberline {7.4}Sériový DAC s vyrovnáním náboje}{38}{subsection.121}%
-\contentsline {subsection}{\numberline {7.5}Nepřímé ADC}{38}{subsection.123}%
-\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{40}{section.125}%
-\contentsline {subsection}{\numberline {8.1}Komparační}{40}{subsection.128}%
-\contentsline {subsection}{\numberline {8.2}Řetězové}{42}{subsection.130}%
-\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{45}{section.134}%
-\contentsline {subsection}{\numberline {9.1}SAR}{45}{subsection.135}%
-\contentsline {subsubsection}{\numberline {9.1.1}ADC s postupnou aproximací a vyrovnáváním náboje}{46}{subsubsection.138}%
-\contentsline {subsection}{\numberline {9.2}Integrační převodníky AD}{48}{subsection.143}%
-\contentsline {subsubsection}{\numberline {9.2.1}Integrační převodník AD s mezipřevodem na kmitočet}{48}{subsubsection.144}%
-\contentsline {subsubsection}{\numberline {9.2.2}Integrační převodník ADC s mezipřevodem na časový interval}{49}{subsubsection.149}%
-\contentsline {section}{\numberline {10}Převodníky sigma-delta}{51}{section.153}%
-\contentsline {subsection}{\numberline {10.1}Modulátory sigma-delta prvního řádu}{53}{subsection.158}%
-\contentsline {subsection}{\numberline {10.2}Modulátory sigma-delta vyššího řádu}{53}{subsection.160}%
-\contentsline {subsection}{\numberline {10.3}Modulátory sigma-delta typu MASH}{54}{subsection.162}%
-\contentsline {subsection}{\numberline {10.4}Sigma-delta převodník AD s filtrem typu pásmová propust}{54}{subsection.163}%
-\contentsline {subsection}{\numberline {10.5}Převodníky DAC typu sigma-delta}{55}{subsection.165}%
-\contentsline {subsection}{\numberline {10.6}Decimační filtr}{56}{subsection.167}%
-\contentsline {section}{\numberline {11}Testování převodníků}{58}{section.171}%
+\contentsline {subsection}{\numberline {2.2}Zesilovače s elektronicky přepínaným zesílením}{4}{subsection.10}%
+\contentsline {subsubsection}{\numberline {2.2.1}Zesilovače pro méně náročné aplikace}{4}{subsubsection.11}%
+\contentsline {subsubsection}{\numberline {2.2.2}Přesný analogový demultiplexor}{7}{subsubsection.18}%
+\contentsline {subsection}{\numberline {2.3}Analogové multiplexery}{8}{subsection.22}%
+\contentsline {section}{\numberline {3}Filtrační obvody}{10}{section.26}%
+\contentsline {subsection}{\numberline {3.1}Funkce}{10}{subsection.27}%
+\contentsline {subsection}{\numberline {3.2}Příklady realizací}{11}{subsection.30}%
+\contentsline {subsubsection}{\numberline {3.2.1}Stejnosměrné přesné filtry}{13}{subsubsection.35}%
+\contentsline {subsection}{\numberline {3.3}Důvody použití v převodnících}{13}{subsection.37}%
+\contentsline {subsection}{\numberline {3.4}Aproximační charakteristiky}{13}{subsection.38}%
+\contentsline {subsection}{\numberline {3.5}Přesné filtry}{15}{subsection.40}%
+\contentsline {section}{\numberline {4}Vzorkovací obvody}{16}{section.41}%
+\contentsline {subsection}{\numberline {4.1}S/H a T/H obvody}{16}{subsection.42}%
+\contentsline {subsection}{\numberline {4.2}Funkce}{16}{subsection.43}%
+\contentsline {subsection}{\numberline {4.3}Základní parametry}{16}{subsection.44}%
+\contentsline {subsubsection}{\numberline {4.3.1}Základní parametry související s přechodovými ději}{17}{subsubsection.46}%
+\contentsline {subsection}{\numberline {4.4}Příklady realizací}{19}{subsection.53}%
+\contentsline {subsubsection}{\numberline {4.4.1}Neinvertující zapojení vzorkovačů s pamětí v technice SC}{19}{subsubsection.54}%
+\contentsline {subsubsection}{\numberline {4.4.2}Invertující zapojení vzorkovače v technice SC}{21}{subsubsection.60}%
+\contentsline {subsubsection}{\numberline {4.4.3}Vzorkovače v technice SI}{22}{subsubsection.66}%
+\contentsline {section}{\numberline {5}Referenční zdroje napětí a proudu}{26}{section.70}%
+\contentsline {subsection}{\numberline {5.1}Jednoduchá reference-napěťové}{26}{subsection.71}%
+\contentsline {subsection}{\numberline {5.2}Reference řízená prahovým napětím (bootstrapped)-napěťový}{28}{subsection.80}%
+\contentsline {subsection}{\numberline {5.3}Bandgap reference}{29}{subsection.82}%
+\contentsline {subsubsection}{\numberline {5.3.1}Bandgap reference podle Paula Brokawa}{30}{subsubsection.86}%
+\contentsline {subsection}{\numberline {5.4}Jednoduchá reference-proudové}{30}{subsection.89}%
+\contentsline {subsection}{\numberline {5.5}Reference řízená prahovým napětím-proudová}{31}{subsection.92}%
+\contentsline {subsection}{\numberline {5.6}Proudový bootstrapped}{32}{subsection.96}%
+\contentsline {subsection}{\numberline {5.7}Výhody a nevýhody}{32}{subsection.98}%
+\contentsline {subsection}{\numberline {5.8}Teplotní závislost}{32}{subsection.99}%
+\contentsline {section}{\numberline {6}Paralelní převodníky DA}{33}{section.101}%
+\contentsline {subsection}{\numberline {6.1}DAC obecně}{33}{subsection.102}%
+\contentsline {subsubsection}{\numberline {6.1.1}Klasifikace}{33}{subsubsection.103}%
+\contentsline {subsubsection}{\numberline {6.1.2}Statické parametry}{33}{subsubsection.104}%
+\contentsline {subsubsection}{\numberline {6.1.3}Dynamické parametry}{35}{subsubsection.108}%
+\contentsline {subsection}{\numberline {6.2}Základní zapojení a funkce}{37}{subsection.114}%
+\contentsline {subsection}{\numberline {6.3}Využití sítě R-2R a modifikace}{38}{subsection.119}%
+\contentsline {section}{\numberline {7}Sériové převodníky DA}{39}{section.120}%
+\contentsline {subsection}{\numberline {7.1}Základní zapojení a funkce}{39}{subsection.121}%
+\contentsline {subsection}{\numberline {7.2}Využití kapacitorů v síti, příklady využití}{39}{subsection.123}%
+\contentsline {subsubsection}{\numberline {7.2.1}Sériový DAC s vybíjením kapacitoru}{39}{subsubsection.124}%
+\contentsline {subsubsection}{\numberline {7.2.2}Sériový převodník s analogovými vzorkovači}{41}{subsubsection.129}%
+\contentsline {subsection}{\numberline {7.3}Sériový cyklický DAC s kapacitory}{42}{subsection.133}%
+\contentsline {subsection}{\numberline {7.4}Sériový DAC s vyrovnáním náboje}{43}{subsection.135}%
+\contentsline {subsection}{\numberline {7.5}Nepřímé DAC}{43}{subsection.137}%
+\contentsline {section}{\numberline {8}Převodníky AD s vysokými vzorkovacími kmitočty}{45}{section.139}%
+\contentsline {subsection}{\numberline {8.1}Komparační}{45}{subsection.142}%
+\contentsline {subsection}{\numberline {8.2}Řetězové}{47}{subsection.144}%
+\contentsline {section}{\numberline {9}Převodníky AD typu SAR a integrační}{50}{section.148}%
+\contentsline {subsection}{\numberline {9.1}SAR}{50}{subsection.149}%
+\contentsline {subsubsection}{\numberline {9.1.1}ADC s postupnou aproximací a vyrovnáváním náboje}{51}{subsubsection.152}%
+\contentsline {subsection}{\numberline {9.2}Integrační převodníky AD}{53}{subsection.157}%
+\contentsline {subsubsection}{\numberline {9.2.1}Integrační převodník AD s mezipřevodem na kmitočet}{53}{subsubsection.158}%
+\contentsline {subsubsection}{\numberline {9.2.2}Integrační převodník ADC s mezipřevodem na časový interval}{54}{subsubsection.163}%
+\contentsline {section}{\numberline {10}Převodníky sigma-delta}{56}{section.167}%
+\contentsline {subsection}{\numberline {10.1}Modulátory sigma-delta prvního řádu}{58}{subsection.172}%
+\contentsline {subsection}{\numberline {10.2}Modulátory sigma-delta vyššího řádu}{58}{subsection.174}%
+\contentsline {subsection}{\numberline {10.3}Modulátory sigma-delta typu MASH}{59}{subsection.176}%
+\contentsline {subsection}{\numberline {10.4}Sigma-delta převodník AD s filtrem typu pásmová propust}{59}{subsection.177}%
+\contentsline {subsection}{\numberline {10.5}Převodníky DAC typu sigma-delta}{60}{subsection.179}%
+\contentsline {subsection}{\numberline {10.6}Decimační filtr}{61}{subsection.181}%
+\contentsline {section}{\numberline {11}Testování převodníků}{63}{section.185}%
