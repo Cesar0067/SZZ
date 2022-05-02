@@ -11,7 +11,7 @@ Sériové převodníky DA zaujímají zvláštní pozici mezi převodníky, v in
 \end{figure}
 
 Pracují na principu postupného řízeného kvantování referenčního napětí číslicovým
-signálem a sčítání váhových kvant jednotlivých bitů číslicového signálu. Sériový číslicový signál D\textsubscript{S} řídí horní spínač, který při D\textsubscript{S} = 1 připojuje kladné referenční napětí U\textsubscript{ref} do analogové sčítačky. Ve sčítačce se toto napětí sčítá s napětím u\textsubscript{k-1}, jež je udržováno na výstupu analogové paměti jako výsledek předchozího taktu převodu T\textsubscript{k-1}. Součet napětí se dělí dvěma a uloží opět do analogové paměti. Vstupní n-bitové číslo se tedy převede na analogový signál postupně, a to celkem v n taktech. Převod začíná od bitu s nejnižší vahou.
+signálem a sčítání váhových kvant jednotlivých bitů číslicového signálu. Sériový číslicový signál D\textsubscript{S} řídí horní spínač, který při D\textsubscript{S} = 1 připojuje kladné referenční napětí U\textsubscript{ref} do analogové sčítačky. Ve sčítačce se toto napětí sčítá s napětím u\textsubscript{k-1}, jež je udržováno na výstupu analogové paměti jako výsledek předchozího taktu převodu T\textsubscript{k-1}. Součet napětí se dělí dvěma a uloží opět do analogové paměti. Vstupní n-bitové číslo se tedy převede na analogový signál postupně, a to celkem v n taktech. Převod začíná od bitu s nejvyšší vahou.
 
 \subsection{Využití kapacitorů v síti, příklady využití}
 \subsubsection{Sériový DAC s vybíjením kapacitoru}
