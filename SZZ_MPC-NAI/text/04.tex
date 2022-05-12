@@ -1,2 +1,47 @@
 \section{ZÁKLADY A TEORIE PŘESNÉHO NÁVRHU S OHLEDEM NA SOUBĚH PARAMETRŮ PRVKŮ INTEGROVANÉHO OBVODU}
 Normální rozložení, Gaussova křivka, směrodatná odchylka, metoda Monte Carlo, princip superpozice (příklad součtu výstupních proudů z proudových zrcadel zatížených chybou souběhu)
+\subsection{Normální rozložení}
+
+\subsection{Gaussova křivka}
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.5]{images/Normal1.png}
+   \end{center}
+   \caption{Znázornění vlivu posunu procesu na ppm}
+\end{figure}
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.5]{images/Normal2.png}
+   \end{center}
+   \caption{Vycentrovaný proces a vliv na ppm}
+\end{figure}
+\subsection{Směrodatná odchylka}
+
+\subsection{Metoda Monte Carlo}
+
+
+\subsection{Princip superpozice}
+Máme systém, který je charakterizován nějakou veličinou Q (např. offset, výstupní napětí,..). Chyba veličiny Q je dána několika dílčími nekorelovanými chybami uvnitř tohoto systému. Celková chyba veličiny Q se počítá tak, že se postupně vyjádří vliv každé dílčí chyby na veličinu Q, při tom se ostatní dílčí chyby zanedbají - položí rovno 0. NAkonec se vlivy všech dílcích chyb nekorelovaně sečtou a tím se získá celková chyba (rozptyl) veličiny Q.
+
+\subsection{Příklad součtu výstupních proudů z proudových zrcadel}
+
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.5]{images/Chyba_Souctu.png}
+   \end{center}
+   \caption{Chyba součtu dvou veličin}
+\end{figure}
+
+Mějme dvě veličiny I1 a I2, které jsou vzájemně nekorelované (nijak na sobě nezávisí). Proud I1 nikterak nezávisí na porudu I2 a naopak. Velikost těchto proudů je zatížena cyhbou ($\sigma$1 a $\sigma$2).
+
+Chyba $\sigma$ součtu proudů se potom vypočítá jako:
+\begin{equation}
+\sigma = \sqrt{\sigma_{1}^{2}+\sigma_{2}^{2}}
+\end{equation}
+
+Při sčítání nekorelovaných veličin je jedna důležitá vlastnost. Pokud je jedna veličina menší než 1/2 největší veličiny, ve výsledku se téměř neprojeví (dá se zanedbat), protože zvýší výslednou hodnotu jen asi o deetinu.
+
+Mějme: x1=1 a x2 = 0,5. Potom:
+\begin{equation}
+\sigma = \sqrt{\sigma_{1}^{2}+\sigma_{2}^{2}}=\sqrt{1^{2}+0,5^{2}}=1,12\doteq 1
+\end{equation}

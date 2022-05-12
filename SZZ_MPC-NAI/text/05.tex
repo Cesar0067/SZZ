@@ -1,2 +1,105 @@
 \section{ZÁKLADNÍ VZTAHY PRO VÝPOČET CHYB V ANALOGOVÝCH OBVODECH }
 Princip superpozice, celková chyba součtu a součinu dvou chybových veličin, přepočet chyb v obvodu diferenčního zapojení (výpočet vstupní napěťové nesymetrie komparátoru s BJT při známé chybě saturačního proudu vstupních tranzistorů)
+
+\subsection{Princip superpozice}
+Máme systém, který je charakterizován nějakou veličinou Q (např. offset, výstupní napětí,..). Chyba veličiny Q je dána několika dílčími nekorelovanými chybami uvnitř tohoto systému. Celková chyba veličiny Q se počítá tak, že se postupně vyjádří vliv každé dílčí chyby na veličinu Q, při tom se ostatní dílčí chyby zanedbají - položí rovno 0. NAkonec se vlivy všech dílcích chyb nekorelovaně sečtou a tím se získá celková chyba (rozptyl) veličiny Q.
+
+\subsection{Příklad součtu výstupních proudů z proudových zrcadel}
+
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.5]{images/Chyba_Souctu.png}
+   \end{center}
+   \caption{Chyba součtu dvou veličin}
+\end{figure}
+
+Mějme dvě veličiny I1 a I2, které jsou vzájemně nekorelované (nijak na sobě nezávisí). Proud I1 nikterak nezávisí na porudu I2 a naopak. Velikost těchto proudů je zatížena cyhbou ($\sigma$1 a $\sigma$2).
+
+Chyba $\sigma$ součtu proudů se potom vypočítá jako:
+\begin{equation}
+\sigma = \sqrt{\sigma_{1}^{2}+\sigma_{2}^{2}}
+\end{equation}
+
+Při sčítání nekorelovaných veličin je jedna důležitá vlastnost. Pokud je jedna veličina menší než 1/2 největší veličiny, ve výsledku se téměř neprojeví (dá se zanedbat), protože zvýší výslednou hodnotu jen asi o deetinu.
+
+Mějme: x1 = 1 a x2 = 0,5. Potom:
+\begin{equation}
+\sigma = \sqrt{\sigma_{1}^{2}+\sigma_{2}^{2}}=\sqrt{1^{2}+0,5^{2}}=1,12\doteq 1
+\end{equation}
+
+\subsection{Příklad součinu výstupních proudů z proudových zrcadel}
+
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.5]{images/Chyba_Soucinu.png}
+   \end{center}
+   \caption{Chyba součinu dvou veličin}
+\end{figure}
+
+Chyba $\sigma$vo výstupního napětí Vo se spočítá jako nekorelovaný součet vlivu těchto dvou dílčích chyb. Nejdříve předpokládejme, že chyba $\sigma$vr referenčního napětí je nulová, tedy že výsledná chyba je dána pouze chybou $\sigma$A zisku A. Výstupní napětí Vo1 a jeho chyba $\sigma$vo1 je potom:
+\begin{equation}
+V_{o1} = V_{r}*(A+\sigma_{A})=V_{r}*A+V_{r}*\sigma_{A}
+\end{equation}
+
+Výsledná chyba $\sigma$o výstupního napětí Vo je pak dána nekorelovaným součtem výše vypočítaných dílčích chyb:
+\begin{equation}
+\sigma_{o1} = \sqrt{\sigma_{vo1}^{2}+\sigma_{vo2}^{2}}=\sqrt{(V_{r}+\sigma_{A})^2+(A+\sigma_{vr})^2}
+\end{equation}
+
+Vztah pro $\sigma$vo lze zapsat i následovně:
+\begin{equation}
+\frac{\sigma_{vo}}{A*V_{r}}=\frac{\sigma_{vo}}{V_{o}}=\sqrt{(\frac{\sigma_{vr}}{V_{r}})^2+(\frac{\sigma_{vr}}{A})^2}
+\end{equation}
+
+Tedy, že relativní normovaná chyba součinu dvou veličin zatížených chybami je dána nekorelovaným součtem relativních chyb jednotlivých složek součinu.
+
+\subsection{Přepočet chyb v obvodu diferenčního zapojení}
+
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=1]{images/Prepocet.png}
+   \end{center}
+   \caption{Chyba vstupního proudu}
+\end{figure}
+
+Měření probíhá na teoreticky identických tranzistorech Q1 a Q2. Měřením je zjištěn rozdíl proudů (odchylky), kdy z této ochylky můžeme spočítat chybu $\sigma$I1/I2 poměru proudů I1 a I2:
+\begin{equation}
+I_{2} = I_{1}+\sigma_{1} => \frac{I_{2}}{I_{1}} = \frac{I_{1}+\sigma_{i}}{I_{1}}=1+\frac{\sigma_{i}}{I_{1}} => \frac{\sigma_{i}}{I_{1}} = \sigma_{I1/I2}
+\end{equation}
+
+Z tohoto výpočtu potom můžeme na základě úvahy "o kolik musíme změnit Ube tranzistoru Q1, aby proud I1 byl stejný jako proud I2" určit nesouběh Ube dvou identických tranzistorů. Jinak řečeno, určíme rozdíl Ube těchto dvou tranzistorů pro případ, kdy hodnota proudu I2 je přesně rovna prudu I1:
+\begin{equation}
+\sigma_{dUbe} = U_{T}*ln(1+\sigma_{I1/I2})
+\end{equation}
+
+\begin{figure}[h]
+   \begin{center}
+     \includegraphics[scale=0.4]{images/Soubeh.png}
+   \end{center}
+   \caption{Reálná simulace nesymetrie}
+\end{figure}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

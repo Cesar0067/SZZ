@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  12 MAY 2022 12:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  12 MAY 2022 18:26
 entering extended mode
 **./MPC-NAI.tex
 (MPC-NAI.tex
@@ -1020,7 +1020,7 @@ LaTeX Font Info:    Trying to load font information for T1+lmr on input line 24
 File: t1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )<<t1.cmap>> (MPC-NAI.aux (text/01.aux) (text/02.aux) (text/03.aux) (text/04.au
 x) (text/05.aux) (text/06.aux) (text/07.aux) (text/08.aux) (text/09.aux)
-(text/10.aux) (text/11.aux) (text/12.aux) (text/13.aux))
+(text/10.aux) (text/11.aux) (text/12.aux))
 \openout1 = `MPC-NAI.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
@@ -1201,23 +1201,51 @@ File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 [0]
 \openout2 = `text/01.aux'.
 
- (text/01.tex) [1
+ (text/01.tex
+<images/OSC.png, id=91, 762.59906pt x 509.65407pt>
+File: images/OSC.png Graphic file (type png)
+<use images/OSC.png>
+Package pdftex.def Info: images/OSC.png  used on input line 6.
+(pdftex.def)             Requested size: 305.03421pt x 203.858pt.
+) [1
 
-]
+ <./images/OSC.png>]
 \openout2 = `text/02.aux'.
 
- (text/02.tex) [2
+ (text/02.tex
+<images/UVLO.png, id=107, 771.63281pt x 514.92375pt>
+File: images/UVLO.png Graphic file (type png)
+<use images/UVLO.png>
+Package pdftex.def Info: images/UVLO.png  used on input line 6.
+(pdftex.def)             Requested size: 385.81546pt x 257.46124pt.
+ [2
 
 
 
-]
+ <./images/UVLO.png>])
+[3]
 \openout2 = `text/03.aux'.
 
- (text/03.tex) [3
+ (text/03.tex
+<images/Latch.png, id=123, 624.83438pt x 460.72125pt>
+File: images/Latch.png Graphic file (type png)
+<use images/Latch.png>
+Package pdftex.def Info: images/Latch.png  used on input line 6.
+(pdftex.def)             Requested size: 312.41643pt x 230.36006pt.
+<images/Latch2.png, id=125, 901.11656pt x 475.02469pt>
+File: images/Latch2.png Graphic file (type png)
+<use images/Latch2.png>
+Package pdftex.def Info: images/Latch2.png  used on input line 23.
+(pdftex.def)             Requested size: 450.55717pt x 237.51175pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [4
 
 
 
-]
+ <./images/Latch.png>] [5 <./images/Latch2.png>]
 \openout2 = `text/04.aux'.
 
  (text/04.tex
@@ -1230,11 +1258,30 @@ Overfull \hbox (2.95496pt too wide) in paragraph at lines 1--1
 \T1/lmss/bx/n/17.28 DEM NA SOU-BÖH PA-RA-ME-TRó PRVKó IN-TE-GRO-
  []
 
-) [4
+<images/Normal1.png, id=140, 532.23843pt x 382.42876pt>
+File: images/Normal1.png Graphic file (type png)
+<use images/Normal1.png>
+Package pdftex.def Info: images/Normal1.png  used on input line 8.
+(pdftex.def)             Requested size: 266.11856pt x 191.2139pt.
+<images/Normal2.png, id=141, 529.98pt x 397.485pt>
+File: images/Normal2.png Graphic file (type png)
+<use images/Normal2.png>
+Package pdftex.def Info: images/Normal2.png  used on input line 14.
+(pdftex.def)             Requested size: 264.98933pt x 198.742pt.
+[6
 
 
 
-]
+ <./images/Normal1.png> <./images/Normal2.png>]
+<images/Chyba_Souctu.png, id=152, 461.47406pt x 376.40625pt>
+File: images/Chyba_Souctu.png Graphic file (type png)
+<use images/Chyba_Souctu.png>
+Package pdftex.def Info: images/Chyba_Souctu.png  used on input line 30.
+(pdftex.def)             Requested size: 230.73645pt x 188.20265pt.
+
+Underfull \vbox (badness 3058) has occurred while \output is active []
+
+ [7 <./images/Chyba_Souctu.png>]) [8]
 \openout2 = `text/05.aux'.
 
  (text/05.tex
@@ -1242,14 +1289,46 @@ Overfull \hbox (0.83324pt too wide) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/17.28 Z¡KLADNÕ VZTAHY PRO V›-PO-ÉET CHYB V ANA-
  []
 
-) [5
+File: images/Chyba_Souctu.png Graphic file (type png)
+<use images/Chyba_Souctu.png>
+Package pdftex.def Info: images/Chyba_Souctu.png  used on input line 11.
+(pdftex.def)             Requested size: 230.73645pt x 188.20265pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [9
 
 
 
 ]
+<images/Chyba_Soucinu.png, id=178, 331.99031pt x 393.72093pt>
+File: images/Chyba_Soucinu.png Graphic file (type png)
+<use images/Chyba_Soucinu.png>
+Package pdftex.def Info: images/Chyba_Soucinu.png  used on input line 34.
+(pdftex.def)             Requested size: 165.99474pt x 196.85999pt.
+
+Underfull \vbox (badness 1237) has occurred while \output is active []
+
+ [10 <./images/Chyba_Soucinu.png>]
+<images/Prepocet.png, id=190, 198.7425pt x 174.6525pt>
+File: images/Prepocet.png Graphic file (type png)
+<use images/Prepocet.png>
+Package pdftex.def Info: images/Prepocet.png  used on input line 60.
+(pdftex.def)             Requested size: 198.742pt x 174.65207pt.
+<images/Soubeh.png, id=191, 1023.07219pt x 479.54156pt>
+File: images/Soubeh.png Graphic file (type png)
+<use images/Soubeh.png>
+Package pdftex.def Info: images/Soubeh.png  used on input line 77.
+(pdftex.def)             Requested size: 409.22163pt x 191.81322pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [11 <./images/Prepocet.png>] [12 <./images/Soubeh.png>]
 \openout2 = `text/06.aux'.
 
- (text/06.tex) [6
+ (text/06.tex)
+[13
 
 
 
@@ -1262,7 +1341,7 @@ Overfull \hbox (16.38974pt too wide) in paragraph at lines 2--39
 -set, prou-dov· ne-sy-me-t-rie transkon-
  []
 
-[7
+[14
 
 
 
@@ -1274,28 +1353,28 @@ Overfull \hbox (1.80489pt too wide) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/17.28 PêESN› DVOU-STUP-åOV› OPE-RAÉNÕ ZE-SI-LO-VAÉ| 
  []
 
-) [8
+) [15
 
 
 
 ]
 \openout2 = `text/09.aux'.
 
- (text/09.tex) [9
+ (text/09.tex) [16
 
 
 
 ]
 \openout2 = `text/10.aux'.
 
- (text/10.tex) [10
+ (text/10.tex) [17
 
 
 
 ]
 \openout2 = `text/11.aux'.
 
- (text/11.tex) [11
+ (text/11.tex) [18
 
 
 
@@ -1307,69 +1386,36 @@ Overfull \hbox (16.58942pt too wide) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/17.28 Z¡KLADNÕ KON-CEPT NÕZ-KO-íUMO-V…HO N¡-VRHU| 
  []
 
-) [12
+) [19
 
 
 
 ] (MPC-NAI.aux (text/01.aux) (text/02.aux) (text/03.aux) (text/04.aux)
 (text/05.aux) (text/06.aux) (text/07.aux) (text/08.aux) (text/09.aux)
 (text/10.aux) (text/11.aux) (text/12.aux))
-
-Package rerunfilecheck Warning: File `MPC-NAI.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `MPC-NAI.out':
-(rerunfilecheck)             Before: B467EFF68AC78CF208426A6DE6C34376;2346
-(rerunfilecheck)             After:  48BF9DD724AF94A6C74F3078013EAEF9;3582.
+Package rerunfilecheck Info: File `MPC-NAI.out' has not changed.
+(rerunfilecheck)             Checksum: E6BBEC483537D0238C008857E3B1F61C;3589.
  ) 
 Here is how much of TeX's memory you used:
- 31087 strings out of 481021
- 590114 string characters out of 2905436
- 916406 words of memory out of 3000000
- 47746 multiletter control sequences out of 15000+600000
- 446969 words of font info for 59 fonts, out of 8000000 for 9000
+ 31214 strings out of 481021
+ 592391 string characters out of 2905436
+ 918971 words of memory out of 3000000
+ 47827 multiletter control sequences out of 15000+600000
+ 455734 words of font info for 62 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
- 89i,6n,92p,436b,785s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.31} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.30} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.29} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.28} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.27} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.26} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.25} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.24} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.23} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.22} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.18} has been referenced but does not exist,
- replaced by a fixed one
-
-{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/MiKTeX/fonts/type1/public/lm/lmbx12
-.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/l
-m/lmr17.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on MPC-NAI.pdf (14 pages, 148490 bytes).
+ 89i,7n,92p,723b,816s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-
+mathsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvi
+ps/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/MiKTeX/fonts/type1/
+public/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/MiKTeX/fon
+ts/type1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Mi
+KTeX/fonts/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb
+><C:/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lms
+sbx10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/pu
+blic/lm/lmsy8.pfb>
+Output written on MPC-NAI.pdf (21 pages, 794272 bytes).
 PDF statistics:
- 178 PDF objects out of 1000 (max. 8388607)
- 38 named destinations out of 1000 (max. 500000)
- 141 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 292 PDF objects out of 1000 (max. 8388607)
+ 72 named destinations out of 1000 (max. 500000)
+ 183 words of extra memory for PDF output out of 10000 (max. 10000000)
 
