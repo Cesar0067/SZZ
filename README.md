@@ -1,4 +1,4 @@
-# MPC-TVP.tex
+# MPC-xxx.tex
 
 Vypracované otázky k předmětu SZZ 2021/22.
 
