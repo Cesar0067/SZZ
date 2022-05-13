@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  12 MAY 2022 18:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  13 MAY 2022 10:21
 entering extended mode
 **./MPC-NAI.tex
 (MPC-NAI.tex
@@ -1353,28 +1353,75 @@ Overfull \hbox (1.80489pt too wide) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/17.28 PêESN› DVOU-STUP-åOV› OPE-RAÉNÕ ZE-SI-LO-VAÉ| 
  []
 
-) [15
+<images/dvojOZ.png, id=216, 889.07156pt x 236.38312pt>
+File: images/dvojOZ.png Graphic file (type png)
+<use images/dvojOZ.png>
+Package pdftex.def Info: images/dvojOZ.png  used on input line 9.
+(pdftex.def)             Requested size: 444.5347pt x 118.19127pt.
+<images/dvojOZ2.png, id=217, 758.08218pt x 237.13594pt>
+File: images/dvojOZ2.png Graphic file (type png)
+<use images/dvojOZ2.png>
+Package pdftex.def Info: images/dvojOZ2.png  used on input line 23.
+(pdftex.def)             Requested size: 379.04016pt x 118.56767pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[15
 
 
 
-]
+ <./images/dvojOZ.png>]
+<images/prvnistupen.png, id=226, 449.42906pt x 331.99031pt>
+File: images/prvnistupen.png Graphic file (type png)
+<use images/prvnistupen.png>
+Package pdftex.def Info: images/prvnistupen.png  used on input line 34.
+(pdftex.def)             Requested size: 224.71397pt x 165.99474pt.
+ [16 <./images/dvojOZ2.png> <./images/prvnistupen.png>]
+<images/OZ.png, id=238, 384.6872pt x 368.87813pt>
+File: images/OZ.png Graphic file (type png)
+<use images/OZ.png>
+Package pdftex.def Info: images/OZ.png  used on input line 67.
+(pdftex.def)             Requested size: 192.34312pt x 184.4386pt.
+<images/sled.png, id=239, 858.20625pt x 463.7325pt>
+File: images/sled.png Graphic file (type png)
+<use images/sled.png>
+Package pdftex.def Info: images/sled.png  used on input line 78.
+(pdftex.def)             Requested size: 429.10208pt x 231.86568pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [17 <./images/OZ.png>]
+<images/offset2.png, id=251, 779.16093pt x 255.95625pt>
+File: images/offset2.png Graphic file (type png)
+<use images/offset2.png>
+Package pdftex.def Info: images/offset2.png  used on input line 96.
+(pdftex.def)             Requested size: 389.57951pt x 127.9778pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [18 <./images/sled.png>]) [19 <./images/offset2.png>]
 \openout2 = `text/09.aux'.
 
- (text/09.tex) [16
+ (text/09.tex) [20
 
 
 
 ]
 \openout2 = `text/10.aux'.
 
- (text/10.tex) [17
+ (text/10.tex)
+[21
 
 
 
 ]
 \openout2 = `text/11.aux'.
 
- (text/11.tex) [18
+ (text/11.tex) [22
 
 
 
@@ -1386,36 +1433,45 @@ Overfull \hbox (16.58942pt too wide) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/17.28 Z¡KLADNÕ KON-CEPT NÕZ-KO-íUMO-V…HO N¡-VRHU| 
  []
 
-) [19
+) [23
 
 
 
 ] (MPC-NAI.aux (text/01.aux) (text/02.aux) (text/03.aux) (text/04.aux)
 (text/05.aux) (text/06.aux) (text/07.aux) (text/08.aux) (text/09.aux)
 (text/10.aux) (text/11.aux) (text/12.aux))
-Package rerunfilecheck Info: File `MPC-NAI.out' has not changed.
-(rerunfilecheck)             Checksum: E6BBEC483537D0238C008857E3B1F61C;3589.
+
+Package rerunfilecheck Warning: File `MPC-NAI.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `MPC-NAI.out':
+(rerunfilecheck)             Before: A387AF0003060655CD13256A7A880BEB;3589
+(rerunfilecheck)             After:  F7A371625D145A91CC6294CAEC371D55;3589.
  ) 
 Here is how much of TeX's memory you used:
- 31214 strings out of 481021
- 592391 string characters out of 2905436
+ 31284 strings out of 481021
+ 593593 string characters out of 2905436
  918971 words of memory out of 3000000
- 47827 multiletter control sequences out of 15000+600000
+ 47865 multiletter control sequences out of 15000+600000
  455734 words of font info for 62 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
  89i,7n,92p,723b,816s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-
-mathsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvi
-ps/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/MiKTeX/fonts/type1/
-public/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/MiKTeX/fon
-ts/type1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Mi
-KTeX/fonts/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb
-><C:/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lms
-sbx10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/pu
-blic/lm/lmsy8.pfb>
-Output written on MPC-NAI.pdf (21 pages, 794272 bytes).
+pdfTeX warning (dest): name{section.67} has been referenced but does not exis
+t, replaced by a fixed one
+
+{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathex.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ma
+thsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}{C:/MiKTeX/fonts/enc/dvips
+/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/MiKTeX/fonts/type1/pu
+blic/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/MiKTeX/fonts
+/type1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/MiKT
+eX/fonts/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
+C:/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssb
+x10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/publ
+ic/lm/lmsy8.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on MPC-NAI.pdf (25 pages, 1049957 bytes).
 PDF statistics:
- 292 PDF objects out of 1000 (max. 8388607)
- 72 named destinations out of 1000 (max. 500000)
- 183 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 353 PDF objects out of 1000 (max. 8388607)
+ 98 named destinations out of 1000 (max. 500000)
+ 213 words of extra memory for PDF output out of 10000 (max. 10000000)
 

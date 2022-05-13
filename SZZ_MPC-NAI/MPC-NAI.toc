@@ -20,7 +20,10 @@
 \contentsline {section}{\numberline {6}PŘESNÁ TRANZISTOROVÁ DVOJICE}{13}{section.44}%
 \contentsline {section}{\numberline {7}PŘESNÝ DIFERENCIÁLNÍ STUPEŇ (MOS/bipolar, odporová zátěž, aktivní zátěž)}{14}{section.45}%
 \contentsline {section}{\numberline {8}PŘESNÝ DVOUSTUPŇOVÝ OPERAČNÍ ZESILOVAČ}{15}{section.46}%
-\contentsline {section}{\numberline {9}ŠUM}{16}{section.47}%
-\contentsline {section}{\numberline {10}ŠUM ODPORU, ŠUM MOS TRANZISTORU }{17}{section.48}%
-\contentsline {section}{\numberline {11}ŠUM PN PŘECHODU, ŠUM BJT}{18}{section.49}%
-\contentsline {section}{\numberline {12}ZÁKLADNÍ KONCEPT NÍZKOŠUMOVÉHO NÁVRHU}{19}{section.50}%
+\contentsline {subsection}{\numberline {8.1}Základní koncept přesného návrhu zesilovače a eliminace chyby}{15}{subsection.47}%
+\contentsline {subsection}{\numberline {8.2}Vstupní bipolární stupeň}{16}{subsection.51}%
+\contentsline {subsection}{\numberline {8.3}Postup návrhu}{17}{subsection.55}%
+\contentsline {section}{\numberline {9}ŠUM}{20}{section.68}%
+\contentsline {section}{\numberline {10}ŠUM ODPORU, ŠUM MOS TRANZISTORU }{21}{section.69}%
+\contentsline {section}{\numberline {11}ŠUM PN PŘECHODU, ŠUM BJT}{22}{section.70}%
+\contentsline {section}{\numberline {12}ZÁKLADNÍ KONCEPT NÍZKOŠUMOVÉHO NÁVRHU}{23}{section.71}%
