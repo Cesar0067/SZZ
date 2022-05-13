@@ -14,9 +14,9 @@ Pokud napětí na vstupu LATCH3V přesháne referenční úroveň 3 V, sepne com
 U_{t} = U_{d}-U_{gs}(MP9)
 \end{equation}
 
-Pokud napětí na Cext dosáhne hodnoty Ut, změní se stav na výstupu OUT z úrovně H do úrovně L, stav L na výstupu OUT zablokuje celý sytém. K tomu je zapotřebí, aby chybový stav na výstupu LATCH3V (napětí vyšší, než 3 V) trval po dobu, za níž se Cext nabije na úroveň Ut (z Obrázku \ref{Latch} je Ut = 4,3 V). Tetno čas je možné nastavit velikostí externího kondenzátoru Cext.
+Pokud napětí na C\textsubscript{ext} dosáhne hodnoty U\textsubscript{T}, změní se stav na výstupu OUT z úrovně H do úrovně L, stav L na výstupu OUT zablokuje celý sytém. K tomu je zapotřebí, aby chybový stav na výstupu LATCH3V (napětí vyšší, než 3 V) trval po dobu, za níž se C\textsubscript{ext} nabije na úroveň U\textsubscript{T} (z Obrázku \ref{Latch} je U\textsubscript{T} = 4,3 V). Tento čas je možné nastavit velikostí externího kondenzátoru C\textsubscript{ext}.
 
-Pokud chybový stav zmizí dříve, než se Cext nabije na hodnotu Ut, Cext je vybit pomocí NMOS MN11 a chybový stav na výstupu LATCH3V (napětí vyšší, než 3 V) se na výstupu OUT nijak neprojeví. Chybový stav je vlastně "filtrován" zpožděním - časem potřebným k nabití externího časovacího kondenzátoru na 4,3 V.
+Pokud chybový stav zmizí dříve, než se C\textsubscript{ext} nabije na hodnotu U\textsubscript{T}, C\textsubscript{ext} je vybit pomocí NMOS MN11 a chybový stav na výstupu LATCH3V (napětí vyšší, než 3 V) se na výstupu OUT nijak neprojeví. Chybový stav je vlastně "filtrován" zpožděním - časem potřebným k nabití externího časovacího kondenzátoru na 4,3 V.
 
 \begin{figure}[h]
    \begin{center}
