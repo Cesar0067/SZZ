@@ -20,7 +20,7 @@ Chyba $\sigma$ součtu proudů se potom vypočítá jako:
 \sigma = \sqrt{\sigma_{1}^{2}+\sigma_{2}^{2}}
 \end{equation}
 
-Při sčítání nekorelovaných veličin je jedna důležitá vlastnost. Pokud je jedna veličina menší než 1/2 největší veličiny, ve výsledku se téměř neprojeví (dá se zanedbat), protože zvýší výslednou hodnotu jen asi o deetinu.
+Při sčítání nekorelovaných veličin je jedna důležitá vlastnost. Pokud je jedna veličina menší než 1/2 největší veličiny, ve výsledku se téměř neprojeví (dá se zanedbat), protože zvýší výslednou hodnotu jen asi o desetinu.
 
 Mějme: x\textsubscript{1} = 1 a x\textsubscript{2} = 0,5. Potom:
 \begin{equation}
@@ -28,30 +28,37 @@ Mějme: x\textsubscript{1} = 1 a x\textsubscript{2} = 0,5. Potom:
 \end{equation}
 
 \subsection{Příklad součinu výstupních proudů z proudových zrcadel}
-
 \begin{figure}[h]
    \begin{center}
-     \includegraphics[scale=0.5]{images/Chyba_Soucinu.png}
+     \includegraphics[scale=0.5]{images/Soucin.png}
    \end{center}
-   \caption{Chyba součinu dvou veličin}
+   \caption{Chyba součinu}
 \end{figure}
 
-Chyba $\sigma$\textsubscript{vo} výstupního napětí Vo se spočítá jako nekorelovaný součet vlivu těchto dvou dílčích chyb. Nejdříve předpokládejme, že chyba $\sigma$\textsubscript{vr} referenčního napětí je nulová, tedy že výsledná chyba je dána pouze chybou $\sigma$A zisku A. Výstupní napětí V\textsubscript{o1} a jeho chyba $\sigma$\textsubscript{vo1} je potom:
+První zrcadlo má přesnost K\textsubscript{1}=3 a chyba tohoto přenosu je I\textsubscript{i}= 2 $\mu$A vyjádřená jako odchylka výstupního proudu od očekávané hodnoty
 \begin{equation}
-V_{o1} = V_{r}*(A+\sigma_{A})=V_{r}*A+V_{r}*\sigma_{A}
+I_{1}=k_{1}*I_{i}=6\mu A => \sigma_{i1}=123nA
 \end{equation}
 
-Výsledná chyba $\sigma$\textsubscript{o} výstupního napětí V\textsubscript{o} je pak dána nekorelovaným součtem výše vypočítaných dílčích chyb:
+Pro skutečnou hodnotu K\textsubscript{1} přenosu k\textsubscript{1} pak můžeme napsat:
 \begin{equation}
-\sigma_{o1} = \sqrt{\sigma_{vo1}^{2}+\sigma_{vo2}^{2}}=\sqrt{(V_{r}+\sigma_{A})^2+(A+\sigma_{vr})^2}
+K_{1} = \frac{I_{1}-\sigma_{i1}}{I_{i}}=\frac{k_{1}*I_{i}+\sigma_{i1}}{I_{i}} = k_{1}+\frac{\sigma_{i1}}{I_{i}}
+\end{equation}
+, kde $\sigma$\textsubscript{1} = $\sigma$\textsubscript{i1}/I\textsubscript{i}.
+
+Pro úvahu o chybě přenosu K\textsubscript{2}=5 nyní předpokládejme, že druhé zrcadlo měříme za stejných podmínek jako v daném zapojení, tedy jeho vstupní proud I\textsubscript{1}=6 $\mu$A. Pro skutečnou hodnotu K\textsubscript{2} přenosu k\textsubscript{2} pak můžeme napsat:
+\begin{equation}
+K_{2} = \frac{I_{o}-\sigma_{i2}}{I_{1}}=\frac{k_{2}*I_{1}+\sigma_{i2}}{I_{1}} = k_{2}+\frac{\sigma_{i2}}{I_{1}}
+\end{equation}
+, kde $\sigma$\textsubscript{2} = $\sigma$\textsubscript{i2}/I\textsubscript{1}.
+K\textsubscript{2} je skutečná hodnota přenosu K\textsubscript{2}.
+
+Celkovou chybu $\sigma$\textsubscript{io} vstupního proudu I\textsubscript{o} pak můžeme vyjádřit jako nekorelovaný součet těchto dvou chyb:
+\begin{equation}
+\sigma_{io}=k_{1}*k_{2}*I_{i}*\sqrt{(\frac{\sigma_{2}}{k_{2}})^2+({\frac{\sigma_{1}}{k_{1}}})^2}
 \end{equation}
 
-Vztah pro $\sigma$\textsubscript{vo} lze zapsat i následovně:
-\begin{equation}
-\frac{\sigma_{vo}}{A*V_{r}}=\frac{\sigma_{vo}}{V_{o}}=\sqrt{(\frac{\sigma_{vr}}{V_{r}})^2+(\frac{\sigma_{vr}}{A})^2}
-\end{equation}
 
-Tedy, že relativní normovaná chyba součinu dvou veličin zatížených chybami je dána nekorelovaným součtem relativních chyb jednotlivých složek součinu.
 
 \subsection{Přepočet chyb v obvodu diferenčního zapojení}
 
