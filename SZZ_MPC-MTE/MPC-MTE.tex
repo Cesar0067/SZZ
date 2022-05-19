@@ -1,0 +1,47 @@
+% Povinný argument: Kód předmětu
+\newcommand{\subject}{MPC-MTE}
+% Povinný argument: Název předmětu
+\newcommand{\subjectname}{SZZ}
+% Povinný argument: Seznam autorů
+\newcommand{\authors}{--}
+% Povinný argument: Seznam korektorů
+\newcommand{\corrections}{--}
+% Nepovinný argument: Popis dokumentu
+\newcommand{\docdesc}{Vypracované otázky k SZZ 2022}
+% Nepovinný argument: Cílová skupina dokumentu
+\newcommand{\docgroup}{Mikroelektronika, FEKT VUT}
+% Nepovinný argument: URL repozitáře nebo jiný odkaz na dokument
+\newcommand{\docurl}{}
+
+% Přepsáním argumentu na 'false' vypnete balíček 'minted' pro sázení kódu.
+% Pro jeho použití lokálně musíte mít v systému dostupný Python 3, python
+% knihovnu 'minted' a PDFLaTeX musíte spouštět s argumentem '-shell-escape'.
+% Místo něj můžete použít prostředí 'lstlisting'.
+\newcommand{\docminted}{false}
+
+\input{shared}
+
+\begin{document}
+
+\titulka{}
+
+\tableofcontents
+\thispagestyle{empty}
+
+\setcounter{page}{0}
+
+\include{text/01}
+\include{text/02}
+\include{text/03}
+\include{text/04}
+\include{text/05}
+\include{text/06}
+\include{text/07}
+\include{text/08}
+\include{text/09}
+\include{text/10}
+\include{text/11}
+\include{text/12}
+\include{text/13}
+
+\end{document}
