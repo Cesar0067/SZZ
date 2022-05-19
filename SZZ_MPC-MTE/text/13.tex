@@ -1,5 +1,137 @@
-\section{BAND GAP REFERENCE}
-- Princip Band Gap reference\\
-- Band Gap reference podle P. Brokawa s aktivní zátěží\\
-- Band Gap reference podle P. Brokawa s odporovou zátěží a operačním zesilovačem\\
-- Band Gap předstabilizátor\\
+\section{Ochrana proti ESD}
+-vysvětlete důvod ochrany polovodičových součástek, popište
+specifika při práci s citlivými součástkami, balení a skladování
+
+
+\subsubsection{Vznik elektrostatického výboje}
+
+Hlavní příčina je nahromadění elektrického náboje způsobené nerovnováhou elektronů na
+povrchu daného materiálu, jež vytváří měřitelné elektrické pole. Elektrostaticky nabitým
+materiálem můžeme nazvat ten materiál, který má buď kladný, nebo záporný náboj.
+
+Samotný výboj vzniká tehdy, vytvoří-li se elektrostatické napětí mezi předmětem a jeho okolí, a poté nastane spontánní výboj v podobě elektrického proudu.
+\begin{equation}
+Q= I*t
+\end{equation}
+
+Elektrostatický výboj je miniaturní záblesk elektrostatického náboje, který přechází z jedné
+desky na druhou (překonání dialektrické pevnosti vzduchu).
+
+Elektrostatický výboj a tím poškození polovodičových obvodů může vzniknout čtyřmi způsoby:
+\begin{itemize}
+\item dotknutím se polovodičového obvodu (pinů), jsme-li elektrostaticky nabiti
+\item dotknutím se nabitého polovodičového obvodu například uzemněné plochy
+\item dotknutím se například nabitého nářadí polovodičového obvodu
+\item ocitne-li se obvod náhodou v elektrostatickém poli
+\end{itemize}
+
+
+\subsection{Důvod ochrany polovodičových součástek}
+Poškození vlivem velkého proudu:
+\begin{itemize}
+\item Roztavení vodivých spojů nebo rezistorů.
+\item Roztavení polovodičových přechodů.
+\item Poškození kontaktů mezi polovodičem a spoji.
+\end{itemize}
+Poškození vlivem velkého napětí:\\
+Průraz dielektrické izolace.
+
+\textbf{Sled událostí vedoucí ke zničení PN přechodu:}
+\begin{itemize}
+\item Napětí na závěrně polarizovaném PN přechodu překročí napětí lavinového průrazu.
+\item Druhý průraz může nastat, pokud dojde průchodem proudu k ohřevu PN přechodu
+na teplotu, kdy dochází vlivem tepelné generace nosičů náboje k lavinovému
+průrazu.
+\item Místem druhého průrazu protéká velmi velký proud, který způsobuje velké lokální
+zahřívání materiálu.
+\item Tím se urychluje termální generace nosičů náboje (další lokální zvyšování proudu),
+což vede ke kladné zpětné vazbě. Vyvrcholením je roztavení křemíku, při překročení
+teploty 1415 $^{\circ}$C.
+\item Pokud je teplota dostatečná k roztavení kovového vodiče v oblasti kontaktu, může se roztavený kov dostat do oblasti polovodičového přechodu a tím způsobit odporový zkrat polovodičového přechodu
+\end{itemize}
+
+\textbf{Sled událostí vedoucí k průrazu dielektrika:}
+\begin{itemize}
+\item Závěrné napětí dielektrika je překročeno (obvykle na hraně dielektrické vrstvy).
+\item Tímto bodem poté proteče relativně velmi velký proud, který vyvolá místní přehřátí.
+\item V tomto místě se vytvoří přetavený amorfní nebo polykrystalický křemík.
+
+\end{itemize}
+
+\subsection{Specifika při práci s citlivými součástkami}
+Navrhovat zařízení s ohledem na jejich odolnost vůči ESD (použití méně citlivých
+součástek, nebo ochrana součástky na vstupu, na deskách a v zařízeních).
+
+Definovat si potřebnou úroveň ochrany u výrobku a prostoru, kde ho vyrábím (zjištění
+odolnosti používaných součástek, stav výrobních zařízení a prostor).
+
+Zjistit a definovat vyhrazené prostory EPA (všechny vodivé a rozptylující materiály včetně
+personálu jsou propojeny na společný zemní potenciál).
+
+Vyloučit, nebo snížit vytváření a kumulaci elektrostatického náboje.
+
+Odstranění všech materiálů, které mohou při manipulaci generovat, nebo akumulovat
+statický náboj (krabice, plastické obaly, lahve, kelímky atd.)
+
+Udržování zařízení na stejných elektrostatických potenciálech, nejlépe potenciálu
+země
+
+Uzemnění osob přes náramky, propojit pracovní povrchy a podlahy se zemí
+
+
+
+\subsection{Balení a skladování}
+Používat ochranné obaly
+
+Stahovací a smršťovací fólie vycházejí z materiálů používaných pro antistatické sáčky (polyolefin)
+
+\textbf{Antistatické boxy, krabičky z plastů}\\
+Jejich výhodou je jednoznačně mnohonásobné použití a výborné mechanické
+vlastnosti.\\
+Antistatická úprava je ve většině případů celoobjemová.\\
+Výsledná rezistivita je dána složením granulátu při vstřikování nebo přísadami do
+základního materiálu při výrobě.\\
+
+\textbf{Antistaticky ošetřené lepenkové krabice}\\
+Antistaticky ošetřená lepenka je klasická třívrstvá lepenka, na kterou je oboustraně
+aplikována nejprve elektrostaticky vodivá (stínící) vrstva a poté druhá dissipativní vrstva.\\
+Odstínění vnějších elektrostatických polí a zároveň ochrana elektrostaticky citlivých součástek a dílů.
+
+\textbf{Antistatické pěny}\\
+Používá se v kombinaci s dalším obalem např. antistaticky upravenou lepenkou.\\
+Největší výhodou je absorpce mechanických rázů a vibrací\\
+Měkčí polyuretanové pěny jsou vhodnější pro výplně a větší díly. Naopak tvrdší polyetylenové pěny lépe chrání malé součástky a díly – kusové balení (zapíchávání).\\
+
+\textbf{Trubice pro integrované obvody}
+Jsou vyráběny z elektrostatických plastů.\\
+Bývají průhledné, aby bylo možné identifikovat a přepočítat jejich obsah.\\
+Pro přepravu od výrobce k zákazníkovi se balí ještě do ochraných antistatických
+sáčků či přepravek.\\
+
+\textbf{Kotouče a pásy pro ECS}\\
+Kotouče a pásy na elektrostaticky citlivé součástky pro povrchovou montáž jsou
+vyráběny z vodivých plastů.\\
+Jsou určeny pro přepravu pasivních součástek, diskrétních polovodičových prvků
+(diody, tranzistory, LED,...) a jednoduchých IO v pouzdrech SMD.\\
+
+\textbf{Antistatické sáčky}
+V této oblasti je velmi široký, výběr se řídí potřebami
+uživatele.\\
+Existuje také mnoho způsobů uzavírání (sponkování, přelepení páskou a tepelné svařování).\\
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
