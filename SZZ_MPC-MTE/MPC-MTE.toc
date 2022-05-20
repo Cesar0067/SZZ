@@ -35,45 +35,45 @@
 \contentsline {subsection}{\numberline {7.3}Stříbro}{25}{subsection.60}%
 \contentsline {subsection}{\numberline {7.4}Něco navíc ke stříbru}{25}{subsection.61}%
 \contentsline {subsection}{\numberline {7.5}Význam intermetalických sloučenin v pájeném spoji}{26}{subsection.63}%
-\contentsline {section}{\numberline {8}Pájecí pasty}{27}{section.64}%
-\contentsline {subsection}{\numberline {8.1}Složení}{27}{subsection.65}%
-\contentsline {subsubsection}{\numberline {8.1.1}Pájecí materiály}{27}{subsubsection.66}%
-\contentsline {subsubsection}{\numberline {8.1.2}Tavidlo}{27}{subsubsection.67}%
-\contentsline {subsubsection}{\numberline {8.1.3}Pojivová složka}{27}{subsubsection.68}%
-\contentsline {subsubsection}{\numberline {8.1.4}Oxidace}{28}{subsubsection.70}%
-\contentsline {subsection}{\numberline {8.2}Srovnání olovnatých a bezolovnatých slitin}{28}{subsection.71}%
-\contentsline {subsection}{\numberline {8.3}Tavidla}{28}{subsection.73}%
-\contentsline {subsubsection}{\numberline {8.3.1}Funkce tavidla}{28}{subsubsection.74}%
-\contentsline {subsubsection}{\numberline {8.3.2}Typy tavidel}{29}{subsubsection.75}%
-\contentsline {section}{\numberline {9}Šablonový tisk}{31}{section.76}%
-\contentsline {subsection}{\numberline {9.1}Popis}{31}{subsection.77}%
-\contentsline {subsubsection}{\numberline {9.1.1}Výroba}{32}{subsubsection.79}%
-\contentsline {subsection}{\numberline {9.2}Parametry procesu a šablony}{32}{subsection.80}%
-\contentsline {subsection}{\numberline {9.3}Čištění}{32}{subsection.81}%
-\contentsline {section}{\numberline {10}Nastavování pájecích profilů pro BGA a QFN komponenty}{33}{section.82}%
-\contentsline {subsection}{\numberline {10.1}Termodesky}{33}{subsection.83}%
-\contentsline {subsection}{\numberline {10.2}Vztah teplotního profilu k parametrům DPS a pájecím slitinám}{33}{subsection.84}%
-\contentsline {subsection}{\numberline {10.3}Specifika pro různé způsoby ohřevu}{34}{subsection.87}%
-\contentsline {subsubsection}{\numberline {10.3.1}Ohřev horkým vzduchem}{34}{subsubsection.88}%
-\contentsline {subsubsection}{\numberline {10.3.2}IR ohřev}{35}{subsubsection.89}%
-\contentsline {section}{\numberline {11}Porovnání metod pájení přetavením z pohledu přestupu tepla}{36}{section.90}%
-\contentsline {section}{\numberline {12}Montáž a opravy BGA a QFN pouzder}{37}{section.92}%
-\contentsline {subsection}{\numberline {12.1}BGA}{37}{subsection.93}%
-\contentsline {subsection}{\numberline {12.2}QFN}{37}{subsection.94}%
-\contentsline {subsection}{\numberline {12.3}Technologie montáže a opravy se zaměřením na odlišnosti uvedených jednotlivých pouzder}{37}{subsection.95}%
-\contentsline {subsubsection}{\numberline {12.3.1}Montáž pouzder BGA}{37}{subsubsection.96}%
-\contentsline {subsubsection}{\numberline {12.3.2}Opravy pouzder BGA}{39}{subsubsection.99}%
-\contentsline {section}{\numberline {13}Ochrana proti ESD}{40}{section.100}%
-\contentsline {subsubsection}{\numberline {13.0.1}Vznik elektrostatického výboje}{40}{subsubsection.101}%
-\contentsline {subsection}{\numberline {13.1}Důvod ochrany polovodičových součástek}{40}{subsection.103}%
-\contentsline {subsection}{\numberline {13.2}Specifika při práci s citlivými součástkami}{41}{subsection.104}%
-\contentsline {subsection}{\numberline {13.3}Balení a skladování}{41}{subsection.105}%
-\contentsline {section}{\numberline {14}Ochrana proti ESD II}{43}{section.106}%
-\contentsline {subsection}{\numberline {14.1}Indikace nebezpečného náboje na pracovišti}{43}{subsection.107}%
-\contentsline {subsection}{\numberline {14.2}Eliminace nebezpečného náboje}{43}{subsection.109}%
-\contentsline {subsubsection}{\numberline {14.2.1}Ochrana uzemněním}{43}{subsubsection.110}%
-\contentsline {subsection}{\numberline {14.3}Materiály vhodné do výrobního prostředí citlivého na ESD}{45}{subsection.111}%
-\contentsline {section}{\numberline {15}Tepelný management}{46}{section.112}%
-\contentsline {subsection}{\numberline {15.1}Význam pro pouzdření}{46}{subsection.113}%
-\contentsline {subsection}{\numberline {15.2}Šíření tepla}{46}{subsection.114}%
-\contentsline {subsection}{\numberline {15.3}Náhradní tepelný obvod pouzdra s tranzistorem, analogie mezi elektrickými a tepelnými veličinami}{47}{subsection.115}%
+\contentsline {section}{\numberline {8}Pájecí pasty}{28}{section.64}%
+\contentsline {subsection}{\numberline {8.1}Složení}{28}{subsection.65}%
+\contentsline {subsubsection}{\numberline {8.1.1}Pájecí materiály}{28}{subsubsection.66}%
+\contentsline {subsubsection}{\numberline {8.1.2}Tavidlo}{28}{subsubsection.67}%
+\contentsline {subsubsection}{\numberline {8.1.3}Pojivová složka}{28}{subsubsection.68}%
+\contentsline {subsubsection}{\numberline {8.1.4}Oxidace}{29}{subsubsection.70}%
+\contentsline {subsection}{\numberline {8.2}Srovnání olovnatých a bezolovnatých slitin}{29}{subsection.71}%
+\contentsline {subsection}{\numberline {8.3}Tavidla}{29}{subsection.73}%
+\contentsline {subsubsection}{\numberline {8.3.1}Funkce tavidla}{29}{subsubsection.74}%
+\contentsline {subsubsection}{\numberline {8.3.2}Typy tavidel}{30}{subsubsection.75}%
+\contentsline {section}{\numberline {9}Šablonový tisk}{32}{section.76}%
+\contentsline {subsection}{\numberline {9.1}Popis}{32}{subsection.77}%
+\contentsline {subsubsection}{\numberline {9.1.1}Výroba}{33}{subsubsection.79}%
+\contentsline {subsection}{\numberline {9.2}Parametry procesu a šablony}{33}{subsection.80}%
+\contentsline {subsection}{\numberline {9.3}Čištění}{33}{subsection.81}%
+\contentsline {section}{\numberline {10}Nastavování pájecích profilů pro BGA a QFN komponenty}{34}{section.82}%
+\contentsline {subsection}{\numberline {10.1}Termodesky}{34}{subsection.83}%
+\contentsline {subsection}{\numberline {10.2}Vztah teplotního profilu k parametrům DPS a pájecím slitinám}{34}{subsection.84}%
+\contentsline {subsection}{\numberline {10.3}Specifika pro různé způsoby ohřevu}{35}{subsection.87}%
+\contentsline {subsubsection}{\numberline {10.3.1}Ohřev horkým vzduchem}{35}{subsubsection.88}%
+\contentsline {subsubsection}{\numberline {10.3.2}IR ohřev}{36}{subsubsection.89}%
+\contentsline {section}{\numberline {11}Porovnání metod pájení přetavením z pohledu přestupu tepla}{37}{section.90}%
+\contentsline {section}{\numberline {12}Montáž a opravy BGA a QFN pouzder}{38}{section.92}%
+\contentsline {subsection}{\numberline {12.1}BGA}{38}{subsection.93}%
+\contentsline {subsection}{\numberline {12.2}QFN}{38}{subsection.94}%
+\contentsline {subsection}{\numberline {12.3}Technologie montáže a opravy se zaměřením na odlišnosti uvedených jednotlivých pouzder}{38}{subsection.95}%
+\contentsline {subsubsection}{\numberline {12.3.1}Montáž pouzder BGA}{38}{subsubsection.96}%
+\contentsline {subsubsection}{\numberline {12.3.2}Opravy pouzder BGA}{40}{subsubsection.99}%
+\contentsline {section}{\numberline {13}Ochrana proti ESD}{41}{section.100}%
+\contentsline {subsubsection}{\numberline {13.0.1}Vznik elektrostatického výboje}{41}{subsubsection.101}%
+\contentsline {subsection}{\numberline {13.1}Důvod ochrany polovodičových součástek}{41}{subsection.103}%
+\contentsline {subsection}{\numberline {13.2}Specifika při práci s citlivými součástkami}{42}{subsection.104}%
+\contentsline {subsection}{\numberline {13.3}Balení a skladování}{42}{subsection.105}%
+\contentsline {section}{\numberline {14}Ochrana proti ESD II}{44}{section.106}%
+\contentsline {subsection}{\numberline {14.1}Indikace nebezpečného náboje na pracovišti}{44}{subsection.107}%
+\contentsline {subsection}{\numberline {14.2}Eliminace nebezpečného náboje}{44}{subsection.109}%
+\contentsline {subsubsection}{\numberline {14.2.1}Ochrana uzemněním}{44}{subsubsection.110}%
+\contentsline {subsection}{\numberline {14.3}Materiály vhodné do výrobního prostředí citlivého na ESD}{46}{subsection.111}%
+\contentsline {section}{\numberline {15}Tepelný management}{47}{section.112}%
+\contentsline {subsection}{\numberline {15.1}Význam pro pouzdření}{47}{subsection.113}%
+\contentsline {subsection}{\numberline {15.2}Šíření tepla}{47}{subsection.114}%
+\contentsline {subsection}{\numberline {15.3}Náhradní tepelný obvod pouzdra s tranzistorem, analogie mezi elektrickými a tepelnými veličinami}{48}{subsection.115}%
