@@ -29,48 +29,51 @@
 \contentsline {subsubsection}{\numberline {6.3.4}Kuličkové bondování}{22}{subsubsection.52}%
 \contentsline {subsubsection}{\numberline {6.3.5}Materiály pro wirebonding}{23}{subsubsection.54}%
 \contentsline {section}{\numberline {7}Leaching}{24}{section.55}%
-\contentsline {subsection}{\numberline {7.1}Zlato}{24}{subsection.56}%
-\contentsline {subsection}{\numberline {7.2}Stříbro}{24}{subsection.58}%
-\contentsline {subsection}{\numberline {7.3}Význam intermetalických sloučenin v pájeném spoji}{25}{subsection.60}%
-\contentsline {section}{\numberline {8}Pájecí pasty}{26}{section.61}%
-\contentsline {subsection}{\numberline {8.1}Složení}{26}{subsection.62}%
-\contentsline {subsubsection}{\numberline {8.1.1}Pájecí materiály}{26}{subsubsection.63}%
-\contentsline {subsubsection}{\numberline {8.1.2}Tavidlo}{26}{subsubsection.64}%
-\contentsline {subsubsection}{\numberline {8.1.3}Pojivová složka}{26}{subsubsection.65}%
-\contentsline {subsubsection}{\numberline {8.1.4}Oxidace}{27}{subsubsection.67}%
-\contentsline {subsection}{\numberline {8.2}Srovnání olovnatých a bezolovnatých slitin}{27}{subsection.68}%
-\contentsline {subsection}{\numberline {8.3}Tavidla}{27}{subsection.70}%
-\contentsline {subsubsection}{\numberline {8.3.1}Funkce tavidla}{27}{subsubsection.71}%
-\contentsline {subsubsection}{\numberline {8.3.2}Typy tavidel}{28}{subsubsection.72}%
-\contentsline {section}{\numberline {9}Šablonový tisk}{30}{section.73}%
-\contentsline {subsection}{\numberline {9.1}Popis}{30}{subsection.74}%
-\contentsline {subsubsection}{\numberline {9.1.1}Výroba}{31}{subsubsection.76}%
-\contentsline {subsection}{\numberline {9.2}Parametry procesu a šablony}{31}{subsection.77}%
-\contentsline {subsection}{\numberline {9.3}Čištění}{31}{subsection.78}%
-\contentsline {section}{\numberline {10}Nastavování pájecích profilů pro BGA a QFN komponenty}{32}{section.79}%
-\contentsline {subsection}{\numberline {10.1}Termodesky}{32}{subsection.80}%
-\contentsline {subsection}{\numberline {10.2}Vztah teplotního profilu k parametrům DPS a pájecím slitinám}{32}{subsection.81}%
-\contentsline {subsection}{\numberline {10.3}Specifika pro různé způsoby ohřevu}{33}{subsection.84}%
-\contentsline {subsubsection}{\numberline {10.3.1}Ohřev horkým vzduchem}{33}{subsubsection.85}%
-\contentsline {subsubsection}{\numberline {10.3.2}IR ohřev}{34}{subsubsection.86}%
-\contentsline {section}{\numberline {11}Porovnání metod pájení přetavením z pohledu přestupu tepla}{35}{section.87}%
-\contentsline {section}{\numberline {12}Montáž a opravy BGA a QFN pouzder}{36}{section.89}%
-\contentsline {subsection}{\numberline {12.1}BGA}{36}{subsection.90}%
-\contentsline {subsection}{\numberline {12.2}QFN}{36}{subsection.91}%
-\contentsline {subsection}{\numberline {12.3}Technologie montáže a opravy se zaměřením na odlišnosti uvedených jednotlivých pouzder}{36}{subsection.92}%
-\contentsline {subsubsection}{\numberline {12.3.1}Montáž pouzder BGA}{36}{subsubsection.93}%
-\contentsline {subsubsection}{\numberline {12.3.2}Opravy pouzder BGA}{38}{subsubsection.96}%
-\contentsline {section}{\numberline {13}Ochrana proti ESD}{39}{section.97}%
-\contentsline {subsubsection}{\numberline {13.0.1}Vznik elektrostatického výboje}{39}{subsubsection.98}%
-\contentsline {subsection}{\numberline {13.1}Důvod ochrany polovodičových součástek}{39}{subsection.100}%
-\contentsline {subsection}{\numberline {13.2}Specifika při práci s citlivými součástkami}{40}{subsection.101}%
-\contentsline {subsection}{\numberline {13.3}Balení a skladování}{40}{subsection.102}%
-\contentsline {section}{\numberline {14}Ochrana proti ESD II}{42}{section.103}%
-\contentsline {subsection}{\numberline {14.1}Indikace nebezpečného náboje na pracovišti}{42}{subsection.104}%
-\contentsline {subsection}{\numberline {14.2}Eliminace nebezpečného náboje}{42}{subsection.106}%
-\contentsline {subsubsection}{\numberline {14.2.1}Ochrana uzemněním}{42}{subsubsection.107}%
-\contentsline {subsection}{\numberline {14.3}Materiály vhodné do výrobního prostředí citlivého na ESD}{44}{subsection.108}%
-\contentsline {section}{\numberline {15}Tepelný management}{45}{section.109}%
-\contentsline {subsection}{\numberline {15.1}Význam pro pouzdření}{45}{subsection.110}%
-\contentsline {subsection}{\numberline {15.2}Šíření tepla}{45}{subsection.111}%
-\contentsline {subsection}{\numberline {15.3}Náhradní tepelný obvod pouzdra s tranzistorem, analogie mezi elektrickými a tepelnými veličinami}{46}{subsection.112}%
+\contentsline {subsection}{\numberline {7.1}Popis}{24}{subsection.56}%
+\contentsline {subsection}{\numberline {7.2}Zlato}{24}{subsection.57}%
+\contentsline {subsubsection}{\numberline {7.2.1}Něco navíc ke zlatu}{24}{subsubsection.58}%
+\contentsline {subsection}{\numberline {7.3}Stříbro}{25}{subsection.60}%
+\contentsline {subsection}{\numberline {7.4}Něco navíc ke stříbru}{25}{subsection.61}%
+\contentsline {subsection}{\numberline {7.5}Význam intermetalických sloučenin v pájeném spoji}{26}{subsection.63}%
+\contentsline {section}{\numberline {8}Pájecí pasty}{27}{section.64}%
+\contentsline {subsection}{\numberline {8.1}Složení}{27}{subsection.65}%
+\contentsline {subsubsection}{\numberline {8.1.1}Pájecí materiály}{27}{subsubsection.66}%
+\contentsline {subsubsection}{\numberline {8.1.2}Tavidlo}{27}{subsubsection.67}%
+\contentsline {subsubsection}{\numberline {8.1.3}Pojivová složka}{27}{subsubsection.68}%
+\contentsline {subsubsection}{\numberline {8.1.4}Oxidace}{28}{subsubsection.70}%
+\contentsline {subsection}{\numberline {8.2}Srovnání olovnatých a bezolovnatých slitin}{28}{subsection.71}%
+\contentsline {subsection}{\numberline {8.3}Tavidla}{28}{subsection.73}%
+\contentsline {subsubsection}{\numberline {8.3.1}Funkce tavidla}{28}{subsubsection.74}%
+\contentsline {subsubsection}{\numberline {8.3.2}Typy tavidel}{29}{subsubsection.75}%
+\contentsline {section}{\numberline {9}Šablonový tisk}{31}{section.76}%
+\contentsline {subsection}{\numberline {9.1}Popis}{31}{subsection.77}%
+\contentsline {subsubsection}{\numberline {9.1.1}Výroba}{32}{subsubsection.79}%
+\contentsline {subsection}{\numberline {9.2}Parametry procesu a šablony}{32}{subsection.80}%
+\contentsline {subsection}{\numberline {9.3}Čištění}{32}{subsection.81}%
+\contentsline {section}{\numberline {10}Nastavování pájecích profilů pro BGA a QFN komponenty}{33}{section.82}%
+\contentsline {subsection}{\numberline {10.1}Termodesky}{33}{subsection.83}%
+\contentsline {subsection}{\numberline {10.2}Vztah teplotního profilu k parametrům DPS a pájecím slitinám}{33}{subsection.84}%
+\contentsline {subsection}{\numberline {10.3}Specifika pro různé způsoby ohřevu}{34}{subsection.87}%
+\contentsline {subsubsection}{\numberline {10.3.1}Ohřev horkým vzduchem}{34}{subsubsection.88}%
+\contentsline {subsubsection}{\numberline {10.3.2}IR ohřev}{35}{subsubsection.89}%
+\contentsline {section}{\numberline {11}Porovnání metod pájení přetavením z pohledu přestupu tepla}{36}{section.90}%
+\contentsline {section}{\numberline {12}Montáž a opravy BGA a QFN pouzder}{37}{section.92}%
+\contentsline {subsection}{\numberline {12.1}BGA}{37}{subsection.93}%
+\contentsline {subsection}{\numberline {12.2}QFN}{37}{subsection.94}%
+\contentsline {subsection}{\numberline {12.3}Technologie montáže a opravy se zaměřením na odlišnosti uvedených jednotlivých pouzder}{37}{subsection.95}%
+\contentsline {subsubsection}{\numberline {12.3.1}Montáž pouzder BGA}{37}{subsubsection.96}%
+\contentsline {subsubsection}{\numberline {12.3.2}Opravy pouzder BGA}{39}{subsubsection.99}%
+\contentsline {section}{\numberline {13}Ochrana proti ESD}{40}{section.100}%
+\contentsline {subsubsection}{\numberline {13.0.1}Vznik elektrostatického výboje}{40}{subsubsection.101}%
+\contentsline {subsection}{\numberline {13.1}Důvod ochrany polovodičových součástek}{40}{subsection.103}%
+\contentsline {subsection}{\numberline {13.2}Specifika při práci s citlivými součástkami}{41}{subsection.104}%
+\contentsline {subsection}{\numberline {13.3}Balení a skladování}{41}{subsection.105}%
+\contentsline {section}{\numberline {14}Ochrana proti ESD II}{43}{section.106}%
+\contentsline {subsection}{\numberline {14.1}Indikace nebezpečného náboje na pracovišti}{43}{subsection.107}%
+\contentsline {subsection}{\numberline {14.2}Eliminace nebezpečného náboje}{43}{subsection.109}%
+\contentsline {subsubsection}{\numberline {14.2.1}Ochrana uzemněním}{43}{subsubsection.110}%
+\contentsline {subsection}{\numberline {14.3}Materiály vhodné do výrobního prostředí citlivého na ESD}{45}{subsection.111}%
+\contentsline {section}{\numberline {15}Tepelný management}{46}{section.112}%
+\contentsline {subsection}{\numberline {15.1}Význam pro pouzdření}{46}{subsection.113}%
+\contentsline {subsection}{\numberline {15.2}Šíření tepla}{46}{subsection.114}%
+\contentsline {subsection}{\numberline {15.3}Náhradní tepelný obvod pouzdra s tranzistorem, analogie mezi elektrickými a tepelnými veličinami}{47}{subsection.115}%
