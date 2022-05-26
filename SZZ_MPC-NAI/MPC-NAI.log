@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  22 MAY 2022 17:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2021.9.25)  22 MAY 2022 18:02
 entering extended mode
 **./MPC-NAI.tex
 (MPC-NAI.tex
@@ -1382,15 +1382,11 @@ Package pdftex.def Info: images/Presnost.png  used on input line 45.
 File: images/grafy.png Graphic file (type png)
 <use images/grafy.png>
 Package pdftex.def Info: images/grafy.png  used on input line 68.
-(pdftex.def)             Requested size: 236.0823pt x 517.33345pt.
+(pdftex.def)             Requested size: 206.57033pt x 452.66307pt.
 
 Underfull \vbox (badness 4108) has occurred while \output is active []
 
- [16 <./images/Presnost.png>]
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-) [17] [18 <./images/grafy.png>]
+ [16 <./images/Presnost.png>]) [17 <./images/grafy.png>]
 \openout2 = `text/07.aux'.
 
  (text/07.tex
@@ -1399,27 +1395,27 @@ Overfull \hbox (16.38974pt too wide) in paragraph at lines 2--3
 -set, prou-dov· ne-sy-me-t-rie transkon-
  []
 
-<images/tab.png, id=269, 115.18031pt x 166.37157pt>
+<images/tab.png, id=265, 115.18031pt x 166.37157pt>
 File: images/tab.png Graphic file (type png)
 <use images/tab.png>
 Package pdftex.def Info: images/tab.png  used on input line 12.
 (pdftex.def)             Requested size: 69.1087pt x 99.82368pt.
-<images/PMOS.png, id=270, 223.58531pt x 232.61906pt>
+<images/PMOS.png, id=266, 223.58531pt x 232.61906pt>
 File: images/PMOS.png Graphic file (type png)
 <use images/PMOS.png>
 Package pdftex.def Info: images/PMOS.png  used on input line 19.
 (pdftex.def)             Requested size: 134.1522pt x 139.57251pt.
-[19
+[18
 
 
 
  <./images/tab.png> <./images/PMOS.png>]
-<images/akt.png, id=281, 325.215pt x 193.47281pt>
+<images/akt.png, id=277, 325.215pt x 193.47281pt>
 File: images/akt.png Graphic file (type png)
 <use images/akt.png>
 Package pdftex.def Info: images/akt.png  used on input line 41.
 (pdftex.def)             Requested size: 195.1305pt x 116.08458pt.
-) [20 <./images/akt.png>]
+) [19 <./images/akt.png>]
 \openout2 = `text/08.aux'.
 
 
@@ -1428,12 +1424,12 @@ Overfull \hbox (1.80489pt too wide) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/17.28 PêESN› DVOU-STUP-åOV› OPE-RAÉNÕ ZE-SI-LO-VAÉ| 
  []
 
-<images/dvojOZ.png, id=294, 889.07156pt x 236.38312pt>
+<images/dvojOZ.png, id=290, 889.07156pt x 236.38312pt>
 File: images/dvojOZ.png Graphic file (type png)
 <use images/dvojOZ.png>
 Package pdftex.def Info: images/dvojOZ.png  used on input line 9.
 (pdftex.def)             Requested size: 444.5347pt x 118.19127pt.
-<images/dvojOZ2.png, id=295, 758.08218pt x 237.13594pt>
+<images/dvojOZ2.png, id=291, 758.08218pt x 237.13594pt>
 File: images/dvojOZ2.png Graphic file (type png)
 <use images/dvojOZ2.png>
 Package pdftex.def Info: images/dvojOZ2.png  used on input line 23.
@@ -1441,23 +1437,23 @@ Package pdftex.def Info: images/dvojOZ2.png  used on input line 23.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[21
+[20
 
 
 
  <./images/dvojOZ.png>]
-<images/prvnistupen.png, id=305, 449.42906pt x 331.99031pt>
+<images/prvnistupen.png, id=300, 449.42906pt x 331.99031pt>
 File: images/prvnistupen.png Graphic file (type png)
 <use images/prvnistupen.png>
 Package pdftex.def Info: images/prvnistupen.png  used on input line 34.
 (pdftex.def)             Requested size: 224.71397pt x 165.99474pt.
- [22 <./images/dvojOZ2.png> <./images/prvnistupen.png>]
-<images/OZ.png, id=317, 384.6872pt x 368.87813pt>
+ [21 <./images/dvojOZ2.png> <./images/prvnistupen.png>]
+<images/OZ.png, id=312, 384.6872pt x 368.87813pt>
 File: images/OZ.png Graphic file (type png)
 <use images/OZ.png>
 Package pdftex.def Info: images/OZ.png  used on input line 67.
 (pdftex.def)             Requested size: 192.34312pt x 184.4386pt.
-<images/sled.png, id=318, 858.20625pt x 463.7325pt>
+<images/sled.png, id=313, 858.20625pt x 463.7325pt>
 File: images/sled.png Graphic file (type png)
 <use images/sled.png>
 Package pdftex.def Info: images/sled.png  used on input line 78.
@@ -1465,8 +1461,8 @@ Package pdftex.def Info: images/sled.png  used on input line 78.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [23 <./images/OZ.png>]
-<images/offset2.png, id=330, 779.16093pt x 255.95625pt>
+ [22 <./images/OZ.png>]
+<images/offset2.png, id=324, 779.16093pt x 255.95625pt>
 File: images/offset2.png Graphic file (type png)
 <use images/offset2.png>
 Package pdftex.def Info: images/offset2.png  used on input line 96.
@@ -1478,11 +1474,11 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [24 <./images/sled.png>]) [25 <./images/offset2.png>]
+ [23 <./images/sled.png>]) [24 <./images/offset2.png>]
 \openout2 = `text/09.aux'.
 
  (text/09.tex
-<images/sum.png, id=350, 705.38531pt x 475.7775pt>
+<images/sum.png, id=345, 705.38531pt x 475.7775pt>
 File: images/sum.png Graphic file (type png)
 <use images/sum.png>
 Package pdftex.def Info: images/sum.png  used on input line 15.
@@ -1490,7 +1486,7 @@ Package pdftex.def Info: images/sum.png  used on input line 15.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [26
+ [25
 
 
 
@@ -1501,12 +1497,12 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <10> on input line 25.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <7> on input line 25.
-<images/hustota.png, id=360, 678.28406pt x 481.04718pt>
+<images/hustota.png, id=354, 678.28406pt x 481.04718pt>
 File: images/hustota.png Graphic file (type png)
 <use images/hustota.png>
 Package pdftex.def Info: images/hustota.png  used on input line 29.
 (pdftex.def)             Requested size: 339.14119pt x 240.523pt.
-<images/korel.png, id=361, 322.20375pt x 423.83344pt>
+<images/korel.png, id=355, 322.20375pt x 423.83344pt>
 File: images/korel.png Graphic file (type png)
 <use images/korel.png>
 Package pdftex.def Info: images/korel.png  used on input line 43.
@@ -1518,8 +1514,8 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [27 <./images/hustota.png>]
-<images/realsum.png, id=371, 594.72188pt x 433.62pt>
+ [26 <./images/hustota.png>]
+<images/realsum.png, id=365, 594.72188pt x 433.62pt>
 File: images/realsum.png Graphic file (type png)
 <use images/realsum.png>
 Package pdftex.def Info: images/realsum.png  used on input line 72.
@@ -1533,24 +1529,24 @@ ic-k˝ch prvk∑ (od-pory, mosovÈ
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [28 <./images/korel.png>]
+ [27 <./images/korel.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [29 <./images/realsum.png>]) [30]
+ [28 <./images/realsum.png>]) [29]
 \openout2 = `text/10.aux'.
 
  (text/10.tex
-<images/sumR.png, id=400, 106.14656pt x 201.00093pt>
+<images/sumR.png, id=394, 106.14656pt x 201.00093pt>
 File: images/sumR.png Graphic file (type png)
 <use images/sumR.png>
 Package pdftex.def Info: images/sumR.png  used on input line 13.
 (pdftex.def)             Requested size: 53.07315pt x 100.50021pt.
-<images/sumRI.png, id=401, 153.57375pt x 155.83218pt>
+<images/sumRI.png, id=395, 153.57375pt x 155.83218pt>
 File: images/sumRI.png Graphic file (type png)
 <use images/sumRI.png>
 Package pdftex.def Info: images/sumRI.png  used on input line 25.
 (pdftex.def)             Requested size: 76.78668pt x 77.9159pt.
-<images/sumMOS.png, id=402, 191.9672pt x 157.33781pt>
+<images/sumMOS.png, id=396, 191.9672pt x 157.33781pt>
 File: images/sumMOS.png Graphic file (type png)
 <use images/sumMOS.png>
 Package pdftex.def Info: images/sumMOS.png  used on input line 35.
@@ -1559,12 +1555,12 @@ Package pdftex.def Info: images/sumMOS.png  used on input line 35.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[31
+[30
 
 
 
  <./images/sumR.png> <./images/sumRI.png>]
-<images/sumMOSv.png, id=417, 174.6525pt x 143.03438pt>
+<images/sumMOSv.png, id=410, 174.6525pt x 143.03438pt>
 File: images/sumMOSv.png Graphic file (type png)
 <use images/sumMOSv.png>
 Package pdftex.def Info: images/sumMOSv.png  used on input line 60.
@@ -1572,8 +1568,8 @@ Package pdftex.def Info: images/sumMOSv.png  used on input line 60.
 
 Underfull \vbox (badness 2088) has occurred while \output is active []
 
- [32 <./images/sumMOS.png> <./images/sumMOSv.png>]
-<images/Zes.png, id=432, 683.55376pt x 798.73407pt>
+ [31 <./images/sumMOS.png> <./images/sumMOSv.png>]
+<images/Zes.png, id=425, 683.55376pt x 798.73407pt>
 File: images/Zes.png Graphic file (type png)
 <use images/Zes.png>
 Package pdftex.def Info: images/Zes.png  used on input line 87.
@@ -1586,26 +1582,26 @@ Overfull \hbox (23.24026pt too wide) in paragraph at lines 87--88
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-) [33] [34 <./images/Zes.png>]
+) [32] [33 <./images/Zes.png>]
 \openout2 = `text/11.aux'.
 
  (text/11.tex
-<images/sumPN.png, id=445, 114.4275pt x 141.52875pt>
+<images/sumPN.png, id=438, 114.4275pt x 141.52875pt>
 File: images/sumPN.png Graphic file (type png)
 <use images/sumPN.png>
 Package pdftex.def Info: images/sumPN.png  used on input line 12.
 (pdftex.def)             Requested size: 57.21361pt x 70.76419pt.
-<images/sumBJT.png, id=446, 378.66469pt x 187.45032pt>
+<images/sumBJT.png, id=439, 378.66469pt x 187.45032pt>
 File: images/sumBJT.png Graphic file (type png)
 <use images/sumBJT.png>
 Package pdftex.def Info: images/sumBJT.png  used on input line 21.
 (pdftex.def)             Requested size: 189.33188pt x 93.72491pt.
- [35
+ [34
 
 
 
  <./images/sumPN.png> <./images/sumBJT.png>]
-<images/prevodBJT.png, id=463, 928.97063pt x 313.17pt>
+<images/prevodBJT.png, id=454, 928.97063pt x 313.17pt>
 File: images/prevodBJT.png Graphic file (type png)
 <use images/prevodBJT.png>
 Package pdftex.def Info: images/prevodBJT.png  used on input line 50.
@@ -1615,12 +1611,12 @@ Overfull \hbox (9.24007pt too wide) in paragraph at lines 50--51
  [] 
  []
 
-<images/slouceniBJT.png, id=464, 680.5425pt x 414.79968pt>
+<images/slouceniBJT.png, id=455, 680.5425pt x 414.79968pt>
 File: images/slouceniBJT.png Graphic file (type png)
 <use images/slouceniBJT.png>
 Package pdftex.def Info: images/slouceniBJT.png  used on input line 59.
 (pdftex.def)             Requested size: 340.27042pt x 207.39934pt.
-<images/grafBJT.png, id=465, 586.44093pt x 374.14781pt>
+<images/grafBJT.png, id=456, 586.44093pt x 374.14781pt>
 File: images/grafBJT.png Graphic file (type png)
 <use images/grafBJT.png>
 Package pdftex.def Info: images/grafBJT.png  used on input line 66.
@@ -1631,19 +1627,19 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 
 Underfull \vbox (badness 1810) has occurred while \output is active []
 
- [36 <./images/prevodBJT.png> <./images/slouceniBJT.png>]
-<images/nrbBJT.png, id=476, 377.91188pt x 257.46187pt>
+ [35 <./images/prevodBJT.png> <./images/slouceniBJT.png>]
+<images/nrbBJT.png, id=468, 377.91188pt x 257.46187pt>
 File: images/nrbBJT.png Graphic file (type png)
 <use images/nrbBJT.png>
 Package pdftex.def Info: images/nrbBJT.png  used on input line 78.
 (pdftex.def)             Requested size: 188.95547pt x 128.7306pt.
- [37 <./images/grafBJT.png> <./images/nrbBJT.png>]
-<images/symBJT.png, id=488, 501.37312pt x 377.15906pt>
+ [36 <./images/grafBJT.png> <./images/nrbBJT.png>]
+<images/symBJT.png, id=480, 501.37312pt x 377.15906pt>
 File: images/symBJT.png Graphic file (type png)
 <use images/symBJT.png>
 Package pdftex.def Info: images/symBJT.png  used on input line 100.
 (pdftex.def)             Requested size: 250.68594pt x 188.57907pt.
- [38 <./images/symBJT.png>]) [39]
+ [37 <./images/symBJT.png>]) [38]
 \openout2 = `text/12.aux'.
 
  (text/12.tex
@@ -1651,7 +1647,7 @@ Overfull \hbox (16.58942pt too wide) in paragraph at lines 1--1
 |[]\T1/lmss/bx/n/17.28 Z¡KLADNÕ KON-CEPT NÕZ-KO-íUMO-V…HO N¡-VRHU| 
  []
 
-) [40
+) [39
 
 
 
@@ -1661,52 +1657,31 @@ Overfull \hbox (16.58942pt too wide) in paragraph at lines 1--1
 
 LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
-
-Package rerunfilecheck Warning: File `MPC-NAI.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `MPC-NAI.out':
-(rerunfilecheck)             Before: 8D64CC298F6A53EC51484F9D92DB602A;3592
-(rerunfilecheck)             After:  E4187C191F0C847F33FE834364E0C166;3592.
+Package rerunfilecheck Info: File `MPC-NAI.out' has not changed.
+(rerunfilecheck)             Checksum: E4187C191F0C847F33FE834364E0C166;3592.
  ) 
 Here is how much of TeX's memory you used:
- 31640 strings out of 481021
- 599505 string characters out of 2905436
+ 31634 strings out of 481021
+ 599445 string characters out of 2905436
  920094 words of memory out of 3000000
  48052 multiletter control sequences out of 15000+600000
  485417 words of font info for 86 fonts, out of 8000000 for 9000
  24 hyphenation exceptions out of 8191
  89i,9n,92p,871b,820s stack positions out of 5000i,500n,10000p,200000b,80000s
-pdfTeX warning (dest): name{section.164} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.137} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.118} has been referenced but does not exist
-, replaced by a fixed one
-
-pdfTeX warning (dest): name{section.98} has been referenced but does not exist,
- replaced by a fixed one
-
-pdfTeX warning (dest): name{section.76} has been referenced but does not exist,
- replaced by a fixed one
-
-{C:/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathex
-.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-m
-athsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/MiKTeX/fonts/type1/pu
-blic/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/MiKTeX/fonts
-/type1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/MiKT
-eX/fonts/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb><
-C:/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr8.
-pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type1/public
-/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/MiKTeX/fonts/type
-1/public/lm/lmtt12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pf
-b>
-Output written on MPC-NAI.pdf (42 pages, 2129571 bytes).
+{C:/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-math
+ex.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm
+-mathsy.enc}{C:/MiKTeX/fonts/enc/dvips/lm/lm-mathit.enc}<C:/MiKTeX/fonts/type1/
+public/lm/lmbx12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmex10.pfb><C:/MiKTeX/fon
+ts/type1/public/lm/lmmi12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmmi8.pfb><C:/Mi
+KTeX/fonts/type1/public/lm/lmr12.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr17.pfb
+><C:/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/MiKTeX/fonts/type1/public/lm/lmr
+8.pfb><C:/MiKTeX/fonts/type1/public/lm/lmssbx10.pfb><C:/MiKTeX/fonts/type1/publ
+ic/lm/lmsy10.pfb><C:/MiKTeX/fonts/type1/public/lm/lmsy8.pfb><C:/MiKTeX/fonts/ty
+pe1/public/lm/lmtt12.pfb><C:/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.
+pfb>
+Output written on MPC-NAI.pdf (41 pages, 2128429 bytes).
 PDF statistics:
- 608 PDF objects out of 1000 (max. 8388607)
- 213 named destinations out of 1000 (max. 500000)
+ 598 PDF objects out of 1000 (max. 8388607)
+ 207 named destinations out of 1000 (max. 500000)
  343 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -22,26 +22,26 @@
 \contentsline {subsection}{\numberline {6.2}Diferenční stupeň}{14}{subsection.53}%
 \contentsline {subsection}{\numberline {6.3}Vliv rozměrů MOS tranzistorů na přesnost}{16}{subsection.58}%
 \contentsline {subsection}{\numberline {6.4}Pelgromova rovnice}{16}{subsection.60}%
-\contentsline {section}{\numberline {7}PŘESNÝ DIFERENCIÁLNÍ STUPEŇ (MOS/bipolar, odporová zátěž, aktivní zátěž)}{19}{section.65}%
-\contentsline {subsection}{\numberline {7.1}Diferenční MOS stupeň s odporovou/MOS aktivní zátěží}{19}{subsection.66}%
-\contentsline {subsubsection}{\numberline {7.1.1}Aktivní MOS zátěž}{20}{subsubsection.71}%
-\contentsline {subsection}{\numberline {7.2}Výstupní napěťová nesymetrie zesilovače a jejich vztahy}{20}{subsection.76}%
-\contentsline {section}{\numberline {8}PŘESNÝ DVOUSTUPŇOVÝ OPERAČNÍ ZESILOVAČ}{21}{section.77}%
-\contentsline {subsection}{\numberline {8.1}Základní koncept přesného návrhu zesilovače a eliminace chyby}{21}{subsection.78}%
-\contentsline {subsection}{\numberline {8.2}Vstupní bipolární stupeň}{22}{subsection.82}%
-\contentsline {subsection}{\numberline {8.3}Postup návrhu}{23}{subsection.86}%
-\contentsline {section}{\numberline {9}ŠUM}{26}{section.99}%
-\contentsline {subsection}{\numberline {9.1}Definice šumové hustoty}{26}{subsection.100}%
-\contentsline {subsection}{\numberline {9.2}Integrální hodnoty šumu}{27}{subsection.103}%
-\contentsline {subsection}{\numberline {9.3}Vztah mezi spektrální šumovou hustotou a integrální hodnotou šumu v pásmu f\textsubscript {1} – f\textsubscript {2}}{27}{subsection.104}%
-\contentsline {subsection}{\numberline {9.4}Korelovaný a nekorelovaný příspěvek šumu}{28}{subsection.107}%
-\contentsline {subsection}{\numberline {9.5}Šumová charakteristika aktivních prvků (bílý a 1/f šum)}{29}{subsection.113}%
-\contentsline {section}{\numberline {10}ŠUM ODPORU, ŠUM MOS TRANZISTORU }{31}{section.119}%
-\contentsline {subsection}{\numberline {10.1}Šum odporu}{31}{subsection.120}%
-\contentsline {subsection}{\numberline {10.2}Šum MOS}{31}{subsection.125}%
-\contentsline {subsection}{\numberline {10.3}Ekvivalentní vstupní šum MOS zesilovače}{33}{subsection.136}%
-\contentsline {section}{\numberline {11}ŠUM PN PŘECHODU, ŠUM BJT}{35}{section.138}%
-\contentsline {subsection}{\numberline {11.1}Šum PN přechodu}{35}{subsection.139}%
-\contentsline {subsection}{\numberline {11.2}Šum BJT}{35}{subsection.142}%
-\contentsline {subsection}{\numberline {11.3}Výpočet výstupního šumu jednoduchého proudového zrcadla}{38}{subsection.157}%
-\contentsline {section}{\numberline {12}ZÁKLADNÍ KONCEPT NÍZKOŠUMOVÉHO NÁVRHU}{40}{section.165}%
+\contentsline {section}{\numberline {7}PŘESNÝ DIFERENCIÁLNÍ STUPEŇ (MOS/bipolar, odporová zátěž, aktivní zátěž)}{18}{section.65}%
+\contentsline {subsection}{\numberline {7.1}Diferenční MOS stupeň s odporovou/MOS aktivní zátěží}{18}{subsection.66}%
+\contentsline {subsubsection}{\numberline {7.1.1}Aktivní MOS zátěž}{19}{subsubsection.71}%
+\contentsline {subsection}{\numberline {7.2}Výstupní napěťová nesymetrie zesilovače a jejich vztahy}{19}{subsection.76}%
+\contentsline {section}{\numberline {8}PŘESNÝ DVOUSTUPŇOVÝ OPERAČNÍ ZESILOVAČ}{20}{section.77}%
+\contentsline {subsection}{\numberline {8.1}Základní koncept přesného návrhu zesilovače a eliminace chyby}{20}{subsection.78}%
+\contentsline {subsection}{\numberline {8.2}Vstupní bipolární stupeň}{21}{subsection.82}%
+\contentsline {subsection}{\numberline {8.3}Postup návrhu}{22}{subsection.86}%
+\contentsline {section}{\numberline {9}ŠUM}{25}{section.99}%
+\contentsline {subsection}{\numberline {9.1}Definice šumové hustoty}{25}{subsection.100}%
+\contentsline {subsection}{\numberline {9.2}Integrální hodnoty šumu}{26}{subsection.103}%
+\contentsline {subsection}{\numberline {9.3}Vztah mezi spektrální šumovou hustotou a integrální hodnotou šumu v pásmu f\textsubscript {1} – f\textsubscript {2}}{26}{subsection.104}%
+\contentsline {subsection}{\numberline {9.4}Korelovaný a nekorelovaný příspěvek šumu}{27}{subsection.107}%
+\contentsline {subsection}{\numberline {9.5}Šumová charakteristika aktivních prvků (bílý a 1/f šum)}{28}{subsection.113}%
+\contentsline {section}{\numberline {10}ŠUM ODPORU, ŠUM MOS TRANZISTORU }{30}{section.119}%
+\contentsline {subsection}{\numberline {10.1}Šum odporu}{30}{subsection.120}%
+\contentsline {subsection}{\numberline {10.2}Šum MOS}{30}{subsection.125}%
+\contentsline {subsection}{\numberline {10.3}Ekvivalentní vstupní šum MOS zesilovače}{32}{subsection.136}%
+\contentsline {section}{\numberline {11}ŠUM PN PŘECHODU, ŠUM BJT}{34}{section.138}%
+\contentsline {subsection}{\numberline {11.1}Šum PN přechodu}{34}{subsection.139}%
+\contentsline {subsection}{\numberline {11.2}Šum BJT}{34}{subsection.142}%
+\contentsline {subsection}{\numberline {11.3}Výpočet výstupního šumu jednoduchého proudového zrcadla}{37}{subsection.157}%
+\contentsline {section}{\numberline {12}ZÁKLADNÍ KONCEPT NÍZKOŠUMOVÉHO NÁVRHU}{39}{section.165}%
